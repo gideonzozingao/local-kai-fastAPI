@@ -6,21 +6,21 @@ A **production-ready** REST API backend for a food ordering platform (think Uber
 
 ## ✨ Feature Set
 
-| Feature           | Details                                                        |
-| ----------------- | -------------------------------------------------------------- |
-| 🔐 **JWT Auth**    | Access + refresh tokens, role-based access                     |
-| 🍽️ **Restaurants** | CRUD, filtering by city/cuisine, open status                   |
-| 📋 **Menu**        | Categories + items, availability control, dietary flags        |
-| 🛒 **Cart**        | Add/update/remove, cross-restaurant validation, totals         |
-| 📦 **Orders**      | Full lifecycle, pricing breakdown (subtotal + tax + fee)       |
-| 💳 **Payments**    | Stripe PaymentIntent + Webhook handler                         |
-| 🔴 **Real-time**   | WebSocket order tracking per order                             |
-| ⭐ **Reviews**     | Rating system with live restaurant score recalculation         |
-| 📧 **Email**       | Celery + SMTP background jobs (confirmation, status updates)   |
-| 🗄️ **Caching**     | Redis cache utility for menus and restaurant lists             |
-| 👑 **RBAC**        | customer, restaurant_owner, admin roles                        |
-| 🧪 **Tests**       | Full pytest suite (auth, restaurants, cart, orders)            |
-| 🐳 **Docker**      | Full docker-compose stack (API + DB + Redis + Celery + Flower) |
+| Feature         | Details                                                        |
+| --------------- | -------------------------------------------------------------- |
+| **JWT Auth**    | Access + refresh tokens, role-based access                     |
+| **Restaurants** | CRUD, filtering by city/cuisine, open status                   |
+| **Menu**        | Categories + items, availability control, dietary flags        |
+| **Cart**        | Add/update/remove, cross-restaurant validation, totals         |
+| **Orders**      | Full lifecycle, pricing breakdown (subtotal + tax + fee)       |
+| **Payments**    | Stripe PaymentIntent + Webhook handler                         |
+| **Real-time**   | WebSocket order tracking per order                             |
+| **Reviews**     | Rating system with live restaurant score recalculation         |
+| **Email**       | Celery + SMTP background jobs (confirmation, status updates)   |
+| **Caching**     | Redis cache utility for menus and restaurant lists             |
+| **RBAC**        | customer, restaurant_owner, admin roles                        |
+| **Tests**       | Full pytest suite (auth, restaurants, cart, orders)            |
+| **Docker**      | Full docker-compose stack (API + DB + Redis + Celery + Flower) |
 
 ---
 
