@@ -85,8 +85,8 @@ food_ordering_api/
 
 ```bash
 # 1. Clone and enter project
-git clone <repo-url>
-cd food_ordering_api
+git clone git@github.com:gideonzozingao/local-kai-fastAPI.git
+cd local-kai-fastAPI
 
 # 2. Copy env file
 cp .env.example .env
