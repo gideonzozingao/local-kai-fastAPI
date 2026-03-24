@@ -24,7 +24,7 @@ A **production-ready** REST API backend for a food ordering platform (think Uber
 
 ---
 
-## 🏗️ Architecture
+## Architecture
 
 ```
 food_ordering_api/
