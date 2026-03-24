@@ -1,10 +1,10 @@
-# 🍔 Food Ordering API
+# Food Ordering API
 
 A **production-ready** REST API backend for a food ordering platform (think Uber Eats / DoorDash), built with **FastAPI**, **PostgreSQL**, **Redis**, and **Celery**.
 
 ---
 
-## ✨ Feature Set
+## Feature Set
 
 | Feature         | Details                                                        |
 | --------------- | -------------------------------------------------------------- |
@@ -79,7 +79,7 @@ food_ordering_api/
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Option A — Docker (Recommended)
 
@@ -131,7 +131,7 @@ make dev
 
 ---
 
-## 🔑 Test Credentials (after seeding)
+## Test Credentials (after seeding)
 
 | Role             | Email                  | Password     |
 | ---------------- | ---------------------- | ------------ |
@@ -143,7 +143,7 @@ make dev
 
 ---
 
-## 📡 API Endpoints
+## API Endpoints
 
 ### 🔐 Authentication
 ```
@@ -154,7 +154,7 @@ GET    /api/v1/auth/me               Get current user
 POST   /api/v1/auth/change-password  Change password
 ```
 
-### 👤 Users
+###  Users
 ```
 GET    /api/v1/users/me              Get profile
 PATCH  /api/v1/users/me              Update profile
@@ -166,7 +166,7 @@ GET    /api/v1/users/{id}            [Admin] Get user
 DELETE /api/v1/users/{id}           [Admin] Deactivate user
 ```
 
-### 🍽️ Restaurants
+### Restaurants
 ```
 GET    /api/v1/restaurants           List (filter: city, cuisine, search, is_open)
 GET    /api/v1/restaurants/{id}      Get restaurant
@@ -176,7 +176,7 @@ DELETE /api/v1/restaurants/{id}      Deactivate (owner/admin)
 GET    /api/v1/restaurants/{id}/menu Full menu with categories
 ```
 
-### 📋 Menu
+### Menu
 ```
 POST   /api/v1/menu/categories       Create category (owner)
 POST   /api/v1/menu/items            Create item (owner)
@@ -184,7 +184,7 @@ PATCH  /api/v1/menu/items/{id}       Update item (owner)
 DELETE /api/v1/menu/items/{id}       Delete item (owner)
 ```
 
-### 🛒 Cart
+### Cart
 ```
 GET    /api/v1/cart                  View cart with totals
 POST   /api/v1/cart/add              Add item (merges if exists)
@@ -193,7 +193,7 @@ DELETE /api/v1/cart/items/{id}       Remove item
 DELETE /api/v1/cart                  Clear entire cart
 ```
 
-### 📦 Orders
+### Orders
 ```
 POST   /api/v1/orders                Place order (from cart or item list)
 GET    /api/v1/orders                My order history (paginated)
@@ -202,27 +202,27 @@ PATCH  /api/v1/orders/{id}/status    Update status (owner/admin/customer cancel)
 GET    /api/v1/orders/restaurant/{id} Restaurant's orders (owner/admin)
 ```
 
-### 💳 Payments
+### Payments
 ```
 POST   /api/v1/payments/create-intent/{order_id}  Create Stripe PaymentIntent
 POST   /api/v1/payments/confirm                    Confirm payment
 POST   /api/v1/payments/webhook                    Stripe webhook handler
 ```
 
-### ⭐ Reviews
+### Reviews
 ```
 POST   /api/v1/reviews               Submit review (delivered orders only)
 GET    /api/v1/reviews/restaurant/{id}  Get restaurant reviews
 ```
 
-### 🔴 WebSocket
+### WebSocket
 ```
 WS     /api/v1/ws/orders/{id}/track?token=<jwt>   Real-time order tracking
 ```
 
 ---
 
-## 🔄 Order Lifecycle
+## Order Lifecycle
 
 ```
 PENDING → CONFIRMED → PREPARING → READY_FOR_PICKUP → OUT_FOR_DELIVERY → DELIVERED
@@ -233,7 +233,7 @@ Each transition is logged in `order_tracking` with an optional note.
 
 ---
 
-## 🧪 Running Tests
+## Running Tests
 
 ```bash
 # Run full test suite
@@ -248,7 +248,7 @@ pytest tests/test_api.py::TestOrders -v
 
 ---
 
-## ⚙️ Key Design Decisions
+## Key Design Decisions
 
 ### Repository Pattern
 Database access is abstracted through repositories (`UserRepository`, `RestaurantRepository`, etc.), keeping route handlers and service layer clean.
@@ -274,7 +274,7 @@ Each order gets its own WebSocket channel via `ConnectionManager`. Updates are p
 
 ---
 
-## 🔐 Environment Variables
+## Environment Variables
 
 | Variable                      | Description                   | Default                  |
 | ----------------------------- | ----------------------------- | ------------------------ |
@@ -293,7 +293,7 @@ Each order gets its own WebSocket channel via `ConnectionManager`. Updates are p
 
 ---
 
-## 🐳 Docker Services
+## Docker Services
 
 | Service         | Port | Description              |
 | --------------- | ---- | ------------------------ |
@@ -306,7 +306,7 @@ Each order gets its own WebSocket channel via `ConnectionManager`. Updates are p
 
 ---
 
-## 📈 Scaling to Microservices (Phase 3)
+## Scaling to Microservices (Phase 3)
 
 When ready to scale, split by domain:
 
@@ -324,7 +324,7 @@ Each service gets its own DB and communicates via message queue (RabbitMQ / Kafk
 
 ---
 
-## 📜 License
+## License
 
 MIT
 
