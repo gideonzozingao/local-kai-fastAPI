@@ -327,4 +327,4 @@ Each service gets its own DB and communicates via message queue (RabbitMQ / Kafk
 ## 📜 License
 
 MIT
-# local-kai-fastAPI
+
