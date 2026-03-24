@@ -1,0 +1,4237 @@
+[
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Column",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "String",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Boolean",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Float",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Integer",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "ForeignKey",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Text",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "DateTime",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "or_",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "create_engine",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "isExtraImport": true,
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentStatus",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Address",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItem",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderTracking",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Restaurant",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItem",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuCategory",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentStatus",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentMethod",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Restaurant",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuCategory",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItem",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentStatus",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentMethod",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Restaurant",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItem",
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "isExtraImport": true,
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "isExtraImport": true,
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocket",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "WebSocketDisconnect",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Query",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "APIRouter",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Depends",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPException",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "status",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "relationship",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "joinedload",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "Session",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "sessionmaker",
+        "importPath": "sqlalchemy.orm",
+        "description": "sqlalchemy.orm",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.orm",
+        "documentation": {}
+    },
+    {
+        "label": "AuthService",
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "isExtraImport": true,
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "isExtraImport": true,
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "isExtraImport": true,
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "isExtraImport": true,
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "isExtraImport": true,
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "isExtraImport": true,
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "isExtraImport": true,
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "isExtraImport": true,
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "require_admin",
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "isExtraImport": true,
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshTokenRequest",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "ChangePasswordRequest",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdminResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "isExtraImport": true,
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "CartService",
+        "importPath": "app.services.order_service",
+        "description": "app.services.order_service",
+        "isExtraImport": true,
+        "detail": "app.services.order_service",
+        "documentation": {}
+    },
+    {
+        "label": "OrderService",
+        "importPath": "app.services.order_service",
+        "description": "app.services.order_service",
+        "isExtraImport": true,
+        "detail": "app.services.order_service",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemAdd",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemUpdate",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemResponse",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "CartResponse",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderCreate",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatusUpdate",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentIntentResponse",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentConfirmRequest",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewCreate",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewResponse",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemAdd",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemUpdate",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderCreate",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatusUpdate",
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "isExtraImport": true,
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemResponse",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantCreate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantUpdate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantResponse",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantListResponse",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuCategoryCreate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuCategoryResponse",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemCreate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemUpdate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemResponse",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "AddressCreate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "AddressResponse",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemResponse",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantCreate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantUpdate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuCategoryCreate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemCreate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemUpdate",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuResponse",
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "isExtraImport": true,
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Dict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Any",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "uuid",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "uuid",
+        "description": "uuid",
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "uuid",
+        "description": "uuid",
+        "isExtraImport": true,
+        "detail": "uuid",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequestException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequestException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ConflictException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ConflictException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequestException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ForbiddenException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequestException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ForbiddenException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ConflictException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "AppException",
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "isExtraImport": true,
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "OrderRepository",
+        "importPath": "app.repositories.order_repository",
+        "description": "app.repositories.order_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.order_repository",
+        "documentation": {}
+    },
+    {
+        "label": "OrderRepository",
+        "importPath": "app.repositories.order_repository",
+        "description": "app.repositories.order_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.order_repository",
+        "documentation": {}
+    },
+    {
+        "label": "OrderRepository",
+        "importPath": "app.repositories.order_repository",
+        "description": "app.repositories.order_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.order_repository",
+        "documentation": {}
+    },
+    {
+        "label": "CartRepository",
+        "importPath": "app.repositories.order_repository",
+        "description": "app.repositories.order_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.order_repository",
+        "documentation": {}
+    },
+    {
+        "label": "stripe",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "stripe",
+        "description": "stripe",
+        "detail": "stripe",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantService",
+        "importPath": "app.services.restaurant_service",
+        "description": "app.services.restaurant_service",
+        "isExtraImport": true,
+        "detail": "app.services.restaurant_service",
+        "documentation": {}
+    },
+    {
+        "label": "MenuService",
+        "importPath": "app.services.restaurant_service",
+        "description": "app.services.restaurant_service",
+        "isExtraImport": true,
+        "detail": "app.services.restaurant_service",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantRepository",
+        "importPath": "app.repositories.restaurant_repository",
+        "description": "app.repositories.restaurant_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.restaurant_repository",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantRepository",
+        "importPath": "app.repositories.restaurant_repository",
+        "description": "app.repositories.restaurant_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.restaurant_repository",
+        "documentation": {}
+    },
+    {
+        "label": "MenuRepository",
+        "importPath": "app.repositories.restaurant_repository",
+        "description": "app.repositories.restaurant_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.restaurant_repository",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantRepository",
+        "importPath": "app.repositories.restaurant_repository",
+        "description": "app.repositories.restaurant_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.restaurant_repository",
+        "documentation": {}
+    },
+    {
+        "label": "MenuRepository",
+        "importPath": "app.repositories.restaurant_repository",
+        "description": "app.repositories.restaurant_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.restaurant_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.repositories.user_repository",
+        "description": "app.repositories.user_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "importPath": "app.repositories.user_repository",
+        "description": "app.repositories.user_repository",
+        "isExtraImport": true,
+        "detail": "app.repositories.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "isExtraImport": true,
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "auth",
+        "importPath": "app.api.v1.endpoints",
+        "description": "app.api.v1.endpoints",
+        "isExtraImport": true,
+        "detail": "app.api.v1.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "users",
+        "importPath": "app.api.v1.endpoints",
+        "description": "app.api.v1.endpoints",
+        "isExtraImport": true,
+        "detail": "app.api.v1.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "restaurants",
+        "importPath": "app.api.v1.endpoints",
+        "description": "app.api.v1.endpoints",
+        "isExtraImport": true,
+        "detail": "app.api.v1.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "cart",
+        "importPath": "app.api.v1.endpoints",
+        "description": "app.api.v1.endpoints",
+        "isExtraImport": true,
+        "detail": "app.api.v1.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "orders",
+        "importPath": "app.api.v1.endpoints",
+        "description": "app.api.v1.endpoints",
+        "isExtraImport": true,
+        "detail": "app.api.v1.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "payments",
+        "importPath": "app.api.v1.endpoints",
+        "description": "app.api.v1.endpoints",
+        "isExtraImport": true,
+        "detail": "app.api.v1.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "reviews",
+        "importPath": "app.api.v1.endpoints",
+        "description": "app.api.v1.endpoints",
+        "isExtraImport": true,
+        "detail": "app.api.v1.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "websocket",
+        "importPath": "app.api.v1.endpoints",
+        "description": "app.api.v1.endpoints",
+        "isExtraImport": true,
+        "detail": "app.api.v1.endpoints",
+        "documentation": {}
+    },
+    {
+        "label": "menu_router",
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "isExtraImport": true,
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "BaseSettings",
+        "importPath": "pydantic_settings",
+        "description": "pydantic_settings",
+        "isExtraImport": true,
+        "detail": "pydantic_settings",
+        "documentation": {}
+    },
+    {
+        "label": "secrets",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "secrets",
+        "description": "secrets",
+        "detail": "secrets",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "timedelta",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "JWTError",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "jose",
+        "description": "jose",
+        "isExtraImport": true,
+        "detail": "jose",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "bcrypt",
+        "description": "bcrypt",
+        "detail": "bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "UUID",
+        "importPath": "sqlalchemy.dialects.postgresql",
+        "description": "sqlalchemy.dialects.postgresql",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.dialects.postgresql",
+        "documentation": {}
+    },
+    {
+        "label": "declarative_base",
+        "importPath": "sqlalchemy.ext.declarative",
+        "description": "sqlalchemy.ext.declarative",
+        "isExtraImport": true,
+        "detail": "sqlalchemy.ext.declarative",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPBearer",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "HTTPAuthorizationCredentials",
+        "importPath": "fastapi.security",
+        "description": "fastapi.security",
+        "isExtraImport": true,
+        "detail": "fastapi.security",
+        "documentation": {}
+    },
+    {
+        "label": "Enum",
+        "importPath": "enum",
+        "description": "enum",
+        "isExtraImport": true,
+        "detail": "enum",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "BaseModel",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "EmailStr",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "Field",
+        "importPath": "pydantic",
+        "description": "pydantic",
+        "isExtraImport": true,
+        "detail": "pydantic",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app.main",
+        "description": "app.main",
+        "isExtraImport": true,
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "importPath": "app.main",
+        "description": "app.main",
+        "isExtraImport": true,
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "pytest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pytest",
+        "description": "pytest",
+        "detail": "pytest",
+        "documentation": {}
+    },
+    {
+        "label": "TestClient",
+        "importPath": "fastapi.testclient",
+        "description": "fastapi.testclient",
+        "isExtraImport": true,
+        "detail": "fastapi.testclient",
+        "documentation": {}
+    },
+    {
+        "label": "redis",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "redis",
+        "description": "redis",
+        "detail": "redis",
+        "documentation": {}
+    },
+    {
+        "label": "Celery",
+        "importPath": "celery",
+        "description": "celery",
+        "isExtraImport": true,
+        "detail": "celery",
+        "documentation": {}
+    },
+    {
+        "label": "smtplib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "smtplib",
+        "description": "smtplib",
+        "detail": "smtplib",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEText",
+        "importPath": "email.mime.text",
+        "description": "email.mime.text",
+        "isExtraImport": true,
+        "detail": "email.mime.text",
+        "documentation": {}
+    },
+    {
+        "label": "MIMEMultipart",
+        "importPath": "email.mime.multipart",
+        "description": "email.mime.multipart",
+        "isExtraImport": true,
+        "detail": "email.mime.multipart",
+        "documentation": {}
+    },
+    {
+        "label": "celery_app",
+        "importPath": "app.workers.celery_app",
+        "description": "app.workers.celery_app",
+        "isExtraImport": true,
+        "detail": "app.workers.celery_app",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "TrustedHostMiddleware",
+        "importPath": "fastapi.middleware.trustedhost",
+        "description": "fastapi.middleware.trustedhost",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.trustedhost",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "api_router",
+        "importPath": "app.api.v1.router",
+        "description": "app.api.v1.router",
+        "isExtraImport": true,
+        "detail": "app.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():\n        context.run_migrations()",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "def run_migrations_online() -> None:\n    connectable = engine_from_config(\n        config.get_section(config.config_ini_section, {}),\n        prefix=\"sqlalchemy.\",\n        poolclass=pool.NullPool,\n    )\n    with connectable.connect() as connection:\n        context.configure(connection=connection, target_metadata=target_metadata)\n        with context.begin_transaction():\n            context.run_migrations()",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "config = context.config\nconfig.set_main_option(\"sqlalchemy.url\", settings.DATABASE_URL)\nif config.config_file_name is not None:\n    fileConfig(config.config_file_name)\ntarget_metadata = Base.metadata\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "alembic.env",
+        "description": "alembic.env",
+        "peekOfCode": "target_metadata = Base.metadata\ndef run_migrations_offline() -> None:\n    url = config.get_main_option(\"sqlalchemy.url\")\n    context.configure(\n        url=url,\n        target_metadata=target_metadata,\n        literal_binds=True,\n        dialect_opts={\"paramstyle\": \"named\"},\n    )\n    with context.begin_transaction():",
+        "detail": "alembic.env",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.auth",
+        "description": "app.api.v1.endpoints.auth",
+        "peekOfCode": "def register(data: UserRegister, db: Session = Depends(get_db)):\n    \"\"\"Register a new customer account.\"\"\"\n    result = AuthService(db).register(data)\n    return result.model_dump()\n@router.post(\"/login\")\ndef login(data: UserLogin, db: Session = Depends(get_db)):\n    \"\"\"Login and receive access + refresh tokens.\"\"\"\n    result = AuthService(db).login(data.email, data.password)\n    return result.model_dump()\n@router.post(\"/refresh\")",
+        "detail": "app.api.v1.endpoints.auth",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.auth",
+        "description": "app.api.v1.endpoints.auth",
+        "peekOfCode": "def login(data: UserLogin, db: Session = Depends(get_db)):\n    \"\"\"Login and receive access + refresh tokens.\"\"\"\n    result = AuthService(db).login(data.email, data.password)\n    return result.model_dump()\n@router.post(\"/refresh\")\ndef refresh_token(data: RefreshTokenRequest, db: Session = Depends(get_db)):\n    \"\"\"Exchange a refresh token for a new token pair.\"\"\"\n    result = AuthService(db).refresh_token(data.refresh_token)\n    return result.model_dump()\n@router.get(\"/me\")",
+        "detail": "app.api.v1.endpoints.auth",
+        "documentation": {}
+    },
+    {
+        "label": "refresh_token",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.auth",
+        "description": "app.api.v1.endpoints.auth",
+        "peekOfCode": "def refresh_token(data: RefreshTokenRequest, db: Session = Depends(get_db)):\n    \"\"\"Exchange a refresh token for a new token pair.\"\"\"\n    result = AuthService(db).refresh_token(data.refresh_token)\n    return result.model_dump()\n@router.get(\"/me\")\ndef get_me(current_user: User = Depends(get_current_user)):\n    \"\"\"Get the currently authenticated user's profile.\"\"\"\n    return UserResponse.model_validate(current_user).model_dump()\n@router.post(\"/change-password\")\ndef change_password(",
+        "detail": "app.api.v1.endpoints.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_me",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.auth",
+        "description": "app.api.v1.endpoints.auth",
+        "peekOfCode": "def get_me(current_user: User = Depends(get_current_user)):\n    \"\"\"Get the currently authenticated user's profile.\"\"\"\n    return UserResponse.model_validate(current_user).model_dump()\n@router.post(\"/change-password\")\ndef change_password(\n    data: ChangePasswordRequest,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Change the authenticated user's password.\"\"\"",
+        "detail": "app.api.v1.endpoints.auth",
+        "documentation": {}
+    },
+    {
+        "label": "change_password",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.auth",
+        "description": "app.api.v1.endpoints.auth",
+        "peekOfCode": "def change_password(\n    data: ChangePasswordRequest,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Change the authenticated user's password.\"\"\"\n    return AuthService(db).change_password(current_user, data.current_password, data.new_password)",
+        "detail": "app.api.v1.endpoints.auth",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.auth",
+        "description": "app.api.v1.endpoints.auth",
+        "peekOfCode": "router = APIRouter(prefix=\"/auth\", tags=[\"Authentication\"])\n@router.post(\"/register\", status_code=201)\ndef register(data: UserRegister, db: Session = Depends(get_db)):\n    \"\"\"Register a new customer account.\"\"\"\n    result = AuthService(db).register(data)\n    return result.model_dump()\n@router.post(\"/login\")\ndef login(data: UserLogin, db: Session = Depends(get_db)):\n    \"\"\"Login and receive access + refresh tokens.\"\"\"\n    result = AuthService(db).login(data.email, data.password)",
+        "detail": "app.api.v1.endpoints.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_cart",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.cart",
+        "description": "app.api.v1.endpoints.cart",
+        "peekOfCode": "def get_cart(current_user: User = Depends(get_current_user), db: Session = Depends(get_db)):\n    \"\"\"Get the current user's cart with totals.\"\"\"\n    data = CartService(db).get_cart(current_user)\n    return _serialize_cart(data)\n@router.post(\"/add\")\ndef add_to_cart(\n    data: CartItemAdd,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):",
+        "detail": "app.api.v1.endpoints.cart",
+        "documentation": {}
+    },
+    {
+        "label": "add_to_cart",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.cart",
+        "description": "app.api.v1.endpoints.cart",
+        "peekOfCode": "def add_to_cart(\n    data: CartItemAdd,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Add an item to the cart. Merges quantity if item already exists.\"\"\"\n    return CartService(db).add_item(current_user, data)\n@router.patch(\"/items/{item_id}\")\ndef update_cart_item(\n    item_id: str,",
+        "detail": "app.api.v1.endpoints.cart",
+        "documentation": {}
+    },
+    {
+        "label": "update_cart_item",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.cart",
+        "description": "app.api.v1.endpoints.cart",
+        "peekOfCode": "def update_cart_item(\n    item_id: str,\n    data: CartItemUpdate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Update quantity or instructions for a cart item.\"\"\"\n    return CartService(db).update_item(current_user, item_id, data)\n@router.delete(\"/items/{item_id}\")\ndef remove_from_cart(",
+        "detail": "app.api.v1.endpoints.cart",
+        "documentation": {}
+    },
+    {
+        "label": "remove_from_cart",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.cart",
+        "description": "app.api.v1.endpoints.cart",
+        "peekOfCode": "def remove_from_cart(\n    item_id: str,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Remove a specific item from the cart.\"\"\"\n    return CartService(db).remove_item(current_user, item_id)\n@router.delete(\"\")\ndef clear_cart(current_user: User = Depends(get_current_user), db: Session = Depends(get_db)):\n    \"\"\"Clear all items from the cart.\"\"\"",
+        "detail": "app.api.v1.endpoints.cart",
+        "documentation": {}
+    },
+    {
+        "label": "clear_cart",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.cart",
+        "description": "app.api.v1.endpoints.cart",
+        "peekOfCode": "def clear_cart(current_user: User = Depends(get_current_user), db: Session = Depends(get_db)):\n    \"\"\"Clear all items from the cart.\"\"\"\n    return CartService(db).clear_cart(current_user)",
+        "detail": "app.api.v1.endpoints.cart",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.cart",
+        "description": "app.api.v1.endpoints.cart",
+        "peekOfCode": "router = APIRouter(prefix=\"/cart\", tags=[\"Cart\"])\ndef _serialize_cart(data: dict) -> dict:\n    \"\"\"Manually serialize cart since items contain nested SQLAlchemy objects.\"\"\"\n    items = []\n    for item in data[\"items\"]:\n        items.append({\n            \"id\": str(item[\"id\"]),\n            \"menu_item\": MenuItemResponse.model_validate(item[\"menu_item\"]).model_dump(),\n            \"quantity\": item[\"quantity\"],\n            \"special_instructions\": item[\"special_instructions\"],",
+        "detail": "app.api.v1.endpoints.cart",
+        "documentation": {}
+    },
+    {
+        "label": "create_order",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.orders",
+        "description": "app.api.v1.endpoints.orders",
+        "peekOfCode": "def create_order(\n    data: OrderCreate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Place a new order from cart or explicit item list.\"\"\"\n    return OrderService(db).create_order(current_user, data)\n@router.get(\"\")\ndef list_my_orders(\n    skip: int = Query(0, ge=0),",
+        "detail": "app.api.v1.endpoints.orders",
+        "documentation": {}
+    },
+    {
+        "label": "list_my_orders",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.orders",
+        "description": "app.api.v1.endpoints.orders",
+        "peekOfCode": "def list_my_orders(\n    skip: int = Query(0, ge=0),\n    limit: int = Query(20, ge=1, le=100),\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Get paginated list of the current user's orders.\"\"\"\n    orders, total = OrderService(db).get_user_orders(current_user, skip, limit)\n    return {\n        \"items\": [_serialize_order_list(o) for o in orders],",
+        "detail": "app.api.v1.endpoints.orders",
+        "documentation": {}
+    },
+    {
+        "label": "get_restaurant_orders",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.orders",
+        "description": "app.api.v1.endpoints.orders",
+        "peekOfCode": "def get_restaurant_orders(\n    restaurant_id: str,\n    status: Optional[OrderStatus] = Query(None),\n    skip: int = Query(0, ge=0),\n    limit: int = Query(20, ge=1, le=100),\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Get orders for a specific restaurant (owner or admin only).\"\"\"\n    orders = OrderService(db).get_restaurant_orders(restaurant_id, current_user, status, skip, limit)",
+        "detail": "app.api.v1.endpoints.orders",
+        "documentation": {}
+    },
+    {
+        "label": "get_order",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.orders",
+        "description": "app.api.v1.endpoints.orders",
+        "peekOfCode": "def get_order(\n    order_id: str,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Get full order details including items and tracking history.\"\"\"\n    order_data = OrderService(db).get_order(order_id, current_user)\n    # get_order already returns a dict from _serialize_order in the service\n    # but we need to handle UUIDs/datetimes — convert any remaining non-serializable values\n    return order_data",
+        "detail": "app.api.v1.endpoints.orders",
+        "documentation": {}
+    },
+    {
+        "label": "update_order_status",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.orders",
+        "description": "app.api.v1.endpoints.orders",
+        "peekOfCode": "def update_order_status(\n    order_id: str,\n    data: OrderStatusUpdate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Update order status (restaurant owner/admin, or customer cancel).\"\"\"\n    return OrderService(db).update_order_status(order_id, current_user, data)",
+        "detail": "app.api.v1.endpoints.orders",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.orders",
+        "description": "app.api.v1.endpoints.orders",
+        "peekOfCode": "router = APIRouter(prefix=\"/orders\", tags=[\"Orders\"])\ndef _serialize_order(order) -> dict:\n    \"\"\"Serialize a full order object (SQLAlchemy) to a plain dict.\"\"\"\n    return {\n        \"id\": str(order.id),\n        \"restaurant_id\": str(order.restaurant_id),\n        \"restaurant_name\": order.restaurant.name,\n        \"status\": order.status,\n        \"payment_status\": order.payment_status,\n        \"payment_method\": order.payment_method,",
+        "detail": "app.api.v1.endpoints.orders",
+        "documentation": {}
+    },
+    {
+        "label": "create_payment_intent",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.payments",
+        "description": "app.api.v1.endpoints.payments",
+        "peekOfCode": "def create_payment_intent(\n    order_id: str,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"\n    Create a Stripe PaymentIntent for an order.\n    Returns `client_secret` to complete payment on the frontend.\n    \"\"\"\n    repo = OrderRepository(db)",
+        "detail": "app.api.v1.endpoints.payments",
+        "documentation": {}
+    },
+    {
+        "label": "confirm_payment",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.payments",
+        "description": "app.api.v1.endpoints.payments",
+        "peekOfCode": "def confirm_payment(\n    data: PaymentConfirmRequest,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"\n    Confirm payment was successful and update the order.\n    In production, use the webhook below instead.\n    \"\"\"\n    repo = OrderRepository(db)",
+        "detail": "app.api.v1.endpoints.payments",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.payments",
+        "description": "app.api.v1.endpoints.payments",
+        "peekOfCode": "router = APIRouter(prefix=\"/payments\", tags=[\"Payments\"])\nstripe.api_key = settings.STRIPE_SECRET_KEY\n@router.post(\"/create-intent/{order_id}\", response_model=PaymentIntentResponse)\ndef create_payment_intent(\n    order_id: str,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"\n    Create a Stripe PaymentIntent for an order.",
+        "detail": "app.api.v1.endpoints.payments",
+        "documentation": {}
+    },
+    {
+        "label": "stripe.api_key",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.payments",
+        "description": "app.api.v1.endpoints.payments",
+        "peekOfCode": "stripe.api_key = settings.STRIPE_SECRET_KEY\n@router.post(\"/create-intent/{order_id}\", response_model=PaymentIntentResponse)\ndef create_payment_intent(\n    order_id: str,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"\n    Create a Stripe PaymentIntent for an order.\n    Returns `client_secret` to complete payment on the frontend.",
+        "detail": "app.api.v1.endpoints.payments",
+        "documentation": {}
+    },
+    {
+        "label": "list_restaurants",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "def list_restaurants(\n    skip: int = Query(0, ge=0),\n    limit: int = Query(20, ge=1, le=100),\n    city: Optional[str] = Query(None),\n    cuisine_type: Optional[str] = Query(None),\n    search: Optional[str] = Query(None),\n    is_open: Optional[bool] = Query(None),\n    db: Session = Depends(get_db),\n):\n    \"\"\"List all active restaurants with optional filtering.\"\"\"",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "get_restaurant",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "def get_restaurant(restaurant_id: str, db: Session = Depends(get_db)):\n    \"\"\"Get a restaurant by ID.\"\"\"\n    r = RestaurantService(db).get_by_id(restaurant_id)\n    return RestaurantResponse.model_validate(r).model_dump()\n@router.post(\"\", status_code=201)\ndef create_restaurant(\n    data: RestaurantCreate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "create_restaurant",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "def create_restaurant(\n    data: RestaurantCreate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Create a new restaurant.\"\"\"\n    r = RestaurantService(db).create(current_user, data)\n    return RestaurantResponse.model_validate(r).model_dump()\n@router.patch(\"/{restaurant_id}\")\ndef update_restaurant(",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "update_restaurant",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "def update_restaurant(\n    restaurant_id: str,\n    data: RestaurantUpdate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Update restaurant details (owner or admin).\"\"\"\n    r = RestaurantService(db).update(restaurant_id, current_user, data)\n    return RestaurantResponse.model_validate(r).model_dump()\n@router.delete(\"/{restaurant_id}\")",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "delete_restaurant",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "def delete_restaurant(\n    restaurant_id: str,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Deactivate a restaurant (owner or admin).\"\"\"\n    return RestaurantService(db).delete(restaurant_id, current_user)\n# ─────────────────────────── Menu ────────────────────────────\n@router.get(\"/{restaurant_id}/menu\")\ndef get_menu(restaurant_id: str, db: Session = Depends(get_db)):",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "get_menu",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "def get_menu(restaurant_id: str, db: Session = Depends(get_db)):\n    \"\"\"Get full menu for a restaurant.\"\"\"\n    data = MenuService(db).get_menu(restaurant_id)\n    return {\n        \"restaurant\": RestaurantResponse.model_validate(data[\"restaurant\"]).model_dump(),\n        \"categories\": [MenuCategoryResponse.model_validate(c).model_dump() for c in data[\"categories\"]],\n        \"items\": [MenuItemResponse.model_validate(i).model_dump() for i in data[\"items\"]],\n    }\n# ─────────────────────────── Menu Categories ────────────────────────────\nmenu_router = APIRouter(prefix=\"/menu\", tags=[\"Menu\"])",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "create_category",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "def create_category(\n    data: MenuCategoryCreate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Create a new menu category (restaurant owner).\"\"\"\n    c = MenuService(db).create_category(current_user, data)\n    return MenuCategoryResponse.model_validate(c).model_dump()\n# ─────────────────────────── Menu Items ────────────────────────────\n@menu_router.post(\"/items\", status_code=201)",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "create_menu_item",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "def create_menu_item(\n    data: MenuItemCreate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Create a new menu item (restaurant owner).\"\"\"\n    item = MenuService(db).create_menu_item(current_user, data)\n    return MenuItemResponse.model_validate(item).model_dump()\n@menu_router.patch(\"/items/{item_id}\")\ndef update_menu_item(",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "update_menu_item",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "def update_menu_item(\n    item_id: str,\n    data: MenuItemUpdate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Update a menu item (restaurant owner).\"\"\"\n    item = MenuService(db).update_menu_item(item_id, current_user, data)\n    return MenuItemResponse.model_validate(item).model_dump()\n@menu_router.delete(\"/items/{item_id}\")",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "delete_menu_item",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "def delete_menu_item(\n    item_id: str,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Delete a menu item (restaurant owner).\"\"\"\n    return MenuService(db).delete_menu_item(item_id, current_user)",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "router = APIRouter(prefix=\"/restaurants\", tags=[\"Restaurants\"])\n# ─────────────────────────── Restaurants ────────────────────────────\n@router.get(\"\")\ndef list_restaurants(\n    skip: int = Query(0, ge=0),\n    limit: int = Query(20, ge=1, le=100),\n    city: Optional[str] = Query(None),\n    cuisine_type: Optional[str] = Query(None),\n    search: Optional[str] = Query(None),\n    is_open: Optional[bool] = Query(None),",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "menu_router",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.restaurants",
+        "description": "app.api.v1.endpoints.restaurants",
+        "peekOfCode": "menu_router = APIRouter(prefix=\"/menu\", tags=[\"Menu\"])\n@menu_router.post(\"/categories\", status_code=201)\ndef create_category(\n    data: MenuCategoryCreate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    \"\"\"Create a new menu category (restaurant owner).\"\"\"\n    c = MenuService(db).create_category(current_user, data)\n    return MenuCategoryResponse.model_validate(c).model_dump()",
+        "detail": "app.api.v1.endpoints.restaurants",
+        "documentation": {}
+    },
+    {
+        "label": "create_review",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.reviews",
+        "description": "app.api.v1.endpoints.reviews",
+        "peekOfCode": "def create_review(\n    data: ReviewCreate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    if data.order_id:\n        order = db.query(Order).filter(\n            Order.id == data.order_id,\n            Order.user_id == current_user.id,\n            Order.restaurant_id == data.restaurant_id,",
+        "detail": "app.api.v1.endpoints.reviews",
+        "documentation": {}
+    },
+    {
+        "label": "get_restaurant_reviews",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.reviews",
+        "description": "app.api.v1.endpoints.reviews",
+        "peekOfCode": "def get_restaurant_reviews(\n    restaurant_id: str,\n    skip: int = Query(0, ge=0),\n    limit: int = Query(20, ge=1, le=100),\n    db: Session = Depends(get_db),\n):\n    reviews = (\n        db.query(Review)\n        .filter(Review.restaurant_id == restaurant_id)\n        .order_by(Review.created_at.desc())",
+        "detail": "app.api.v1.endpoints.reviews",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.reviews",
+        "description": "app.api.v1.endpoints.reviews",
+        "peekOfCode": "router = APIRouter(prefix=\"/reviews\", tags=[\"Reviews\"])\n@router.post(\"\", status_code=201)\ndef create_review(\n    data: ReviewCreate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    if data.order_id:\n        order = db.query(Order).filter(\n            Order.id == data.order_id,",
+        "detail": "app.api.v1.endpoints.reviews",
+        "documentation": {}
+    },
+    {
+        "label": "get_profile",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.users",
+        "description": "app.api.v1.endpoints.users",
+        "peekOfCode": "def get_profile(current_user: User = Depends(get_current_user)):\n    return UserResponse.model_validate(current_user).model_dump()\n@router.patch(\"/me\")\ndef update_profile(\n    data: UserUpdate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    repo = UserRepository(db)\n    user = repo.update(current_user, **data.model_dump(exclude_none=True))",
+        "detail": "app.api.v1.endpoints.users",
+        "documentation": {}
+    },
+    {
+        "label": "update_profile",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.users",
+        "description": "app.api.v1.endpoints.users",
+        "peekOfCode": "def update_profile(\n    data: UserUpdate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    repo = UserRepository(db)\n    user = repo.update(current_user, **data.model_dump(exclude_none=True))\n    return UserResponse.model_validate(user).model_dump()\n# ─────────────────────────── Addresses ────────────────────────────\n@router.get(\"/me/addresses\")",
+        "detail": "app.api.v1.endpoints.users",
+        "documentation": {}
+    },
+    {
+        "label": "get_addresses",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.users",
+        "description": "app.api.v1.endpoints.users",
+        "peekOfCode": "def get_addresses(current_user: User = Depends(get_current_user), db: Session = Depends(get_db)):\n    addresses = db.query(Address).filter(Address.user_id == current_user.id).all()\n    return [AddressResponse.model_validate(a).model_dump() for a in addresses]\n@router.post(\"/me/addresses\", status_code=201)\ndef add_address(\n    data: AddressCreate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    if data.is_default:",
+        "detail": "app.api.v1.endpoints.users",
+        "documentation": {}
+    },
+    {
+        "label": "add_address",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.users",
+        "description": "app.api.v1.endpoints.users",
+        "peekOfCode": "def add_address(\n    data: AddressCreate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    if data.is_default:\n        db.query(Address).filter(Address.user_id == current_user.id).update({\"is_default\": False})\n    address = Address(user_id=current_user.id, **data.model_dump())\n    db.add(address)\n    db.commit()",
+        "detail": "app.api.v1.endpoints.users",
+        "documentation": {}
+    },
+    {
+        "label": "delete_address",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.users",
+        "description": "app.api.v1.endpoints.users",
+        "peekOfCode": "def delete_address(\n    address_id: str,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):\n    address = db.query(Address).filter(\n        Address.id == address_id, Address.user_id == current_user.id\n    ).first()\n    if not address:\n        raise NotFoundException(\"Address\")",
+        "detail": "app.api.v1.endpoints.users",
+        "documentation": {}
+    },
+    {
+        "label": "list_users",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.users",
+        "description": "app.api.v1.endpoints.users",
+        "peekOfCode": "def list_users(skip: int = 0, limit: int = 20, db: Session = Depends(get_db)):\n    users = UserRepository(db).get_all(skip, limit)\n    return [UserAdminResponse.model_validate(u).model_dump() for u in users]\n@router.get(\"/{user_id}\", dependencies=[Depends(require_admin)])\ndef get_user(user_id: str, db: Session = Depends(get_db)):\n    user = UserRepository(db).get_by_id(user_id)\n    if not user:\n        raise NotFoundException(\"User\")\n    return UserAdminResponse.model_validate(user).model_dump()\n@router.delete(\"/{user_id}\", dependencies=[Depends(require_admin)])",
+        "detail": "app.api.v1.endpoints.users",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.users",
+        "description": "app.api.v1.endpoints.users",
+        "peekOfCode": "def get_user(user_id: str, db: Session = Depends(get_db)):\n    user = UserRepository(db).get_by_id(user_id)\n    if not user:\n        raise NotFoundException(\"User\")\n    return UserAdminResponse.model_validate(user).model_dump()\n@router.delete(\"/{user_id}\", dependencies=[Depends(require_admin)])\ndef deactivate_user(user_id: str, db: Session = Depends(get_db)):\n    repo = UserRepository(db)\n    user = repo.get_by_id(user_id)\n    if not user:",
+        "detail": "app.api.v1.endpoints.users",
+        "documentation": {}
+    },
+    {
+        "label": "deactivate_user",
+        "kind": 2,
+        "importPath": "app.api.v1.endpoints.users",
+        "description": "app.api.v1.endpoints.users",
+        "peekOfCode": "def deactivate_user(user_id: str, db: Session = Depends(get_db)):\n    repo = UserRepository(db)\n    user = repo.get_by_id(user_id)\n    if not user:\n        raise NotFoundException(\"User\")\n    repo.deactivate(user)\n    return {\"message\": \"User deactivated\"}",
+        "detail": "app.api.v1.endpoints.users",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.users",
+        "description": "app.api.v1.endpoints.users",
+        "peekOfCode": "router = APIRouter(prefix=\"/users\", tags=[\"Users\"])\n@router.get(\"/me\")\ndef get_profile(current_user: User = Depends(get_current_user)):\n    return UserResponse.model_validate(current_user).model_dump()\n@router.patch(\"/me\")\ndef update_profile(\n    data: UserUpdate,\n    current_user: User = Depends(get_current_user),\n    db: Session = Depends(get_db),\n):",
+        "detail": "app.api.v1.endpoints.users",
+        "documentation": {}
+    },
+    {
+        "label": "ConnectionManager",
+        "kind": 6,
+        "importPath": "app.api.v1.endpoints.websocket",
+        "description": "app.api.v1.endpoints.websocket",
+        "peekOfCode": "class ConnectionManager:\n    \"\"\"Manages active WebSocket connections grouped by order ID.\"\"\"\n    def __init__(self):\n        # order_id -> list of websockets\n        self.active_connections: Dict[str, List[WebSocket]] = {}\n    async def connect(self, websocket: WebSocket, order_id: str):\n        await websocket.accept()\n        if order_id not in self.active_connections:\n            self.active_connections[order_id] = []\n        self.active_connections[order_id].append(websocket)",
+        "detail": "app.api.v1.endpoints.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.websocket",
+        "description": "app.api.v1.endpoints.websocket",
+        "peekOfCode": "router = APIRouter(prefix=\"/ws\", tags=[\"WebSocket\"])\nclass ConnectionManager:\n    \"\"\"Manages active WebSocket connections grouped by order ID.\"\"\"\n    def __init__(self):\n        # order_id -> list of websockets\n        self.active_connections: Dict[str, List[WebSocket]] = {}\n    async def connect(self, websocket: WebSocket, order_id: str):\n        await websocket.accept()\n        if order_id not in self.active_connections:\n            self.active_connections[order_id] = []",
+        "detail": "app.api.v1.endpoints.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "manager",
+        "kind": 5,
+        "importPath": "app.api.v1.endpoints.websocket",
+        "description": "app.api.v1.endpoints.websocket",
+        "peekOfCode": "manager = ConnectionManager()\n@router.websocket(\"/orders/{order_id}/track\")\nasync def track_order(\n    websocket: WebSocket,\n    order_id: str,\n    token: str = Query(...),\n    db: Session = Depends(get_db),\n):\n    \"\"\"\n    WebSocket endpoint for real-time order tracking.",
+        "detail": "app.api.v1.endpoints.websocket",
+        "documentation": {}
+    },
+    {
+        "label": "api_router",
+        "kind": 5,
+        "importPath": "app.api.v1.router",
+        "description": "app.api.v1.router",
+        "peekOfCode": "api_router = APIRouter()\napi_router.include_router(auth.router)\napi_router.include_router(users.router)\napi_router.include_router(restaurants.router)\napi_router.include_router(menu_router)\napi_router.include_router(cart.router)\napi_router.include_router(orders.router)\napi_router.include_router(payments.router)\napi_router.include_router(reviews.router)\napi_router.include_router(websocket.router)",
+        "detail": "app.api.v1.router",
+        "documentation": {}
+    },
+    {
+        "label": "Settings",
+        "kind": 6,
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "peekOfCode": "class Settings(BaseSettings):\n    # App\n    APP_NAME: str = \"Food Ordering API\"\n    APP_VERSION: str = \"1.0.0\"\n    DEBUG: bool = False\n    API_V1_STR: str = \"/api/v1\"\n    # Security\n    SECRET_KEY: str = secrets.token_urlsafe(32)\n    ALGORITHM: str = \"HS256\"\n    ACCESS_TOKEN_EXPIRE_MINUTES: int = 30",
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "kind": 5,
+        "importPath": "app.core.config",
+        "description": "app.core.config",
+        "peekOfCode": "settings = Settings()",
+        "detail": "app.core.config",
+        "documentation": {}
+    },
+    {
+        "label": "AppException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class AppException(HTTPException):\n    def __init__(self, status_code: int, detail: str):\n        super().__init__(status_code=status_code, detail=detail)\nclass NotFoundException(AppException):\n    def __init__(self, resource: str = \"Resource\"):\n        super().__init__(status_code=status.HTTP_404_NOT_FOUND, detail=f\"{resource} not found\")\nclass UnauthorizedException(AppException):\n    def __init__(self, detail: str = \"Not authenticated\"):\n        super().__init__(status_code=status.HTTP_401_UNAUTHORIZED, detail=detail)\nclass ForbiddenException(AppException):",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "NotFoundException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class NotFoundException(AppException):\n    def __init__(self, resource: str = \"Resource\"):\n        super().__init__(status_code=status.HTTP_404_NOT_FOUND, detail=f\"{resource} not found\")\nclass UnauthorizedException(AppException):\n    def __init__(self, detail: str = \"Not authenticated\"):\n        super().__init__(status_code=status.HTTP_401_UNAUTHORIZED, detail=detail)\nclass ForbiddenException(AppException):\n    def __init__(self, detail: str = \"Not enough permissions\"):\n        super().__init__(status_code=status.HTTP_403_FORBIDDEN, detail=detail)\nclass ConflictException(AppException):",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "UnauthorizedException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class UnauthorizedException(AppException):\n    def __init__(self, detail: str = \"Not authenticated\"):\n        super().__init__(status_code=status.HTTP_401_UNAUTHORIZED, detail=detail)\nclass ForbiddenException(AppException):\n    def __init__(self, detail: str = \"Not enough permissions\"):\n        super().__init__(status_code=status.HTTP_403_FORBIDDEN, detail=detail)\nclass ConflictException(AppException):\n    def __init__(self, detail: str = \"Resource already exists\"):\n        super().__init__(status_code=status.HTTP_409_CONFLICT, detail=detail)\nclass BadRequestException(AppException):",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ForbiddenException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class ForbiddenException(AppException):\n    def __init__(self, detail: str = \"Not enough permissions\"):\n        super().__init__(status_code=status.HTTP_403_FORBIDDEN, detail=detail)\nclass ConflictException(AppException):\n    def __init__(self, detail: str = \"Resource already exists\"):\n        super().__init__(status_code=status.HTTP_409_CONFLICT, detail=detail)\nclass BadRequestException(AppException):\n    def __init__(self, detail: str = \"Bad request\"):\n        super().__init__(status_code=status.HTTP_400_BAD_REQUEST, detail=detail)",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "ConflictException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class ConflictException(AppException):\n    def __init__(self, detail: str = \"Resource already exists\"):\n        super().__init__(status_code=status.HTTP_409_CONFLICT, detail=detail)\nclass BadRequestException(AppException):\n    def __init__(self, detail: str = \"Bad request\"):\n        super().__init__(status_code=status.HTTP_400_BAD_REQUEST, detail=detail)",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "BadRequestException",
+        "kind": 6,
+        "importPath": "app.core.exceptions",
+        "description": "app.core.exceptions",
+        "peekOfCode": "class BadRequestException(AppException):\n    def __init__(self, detail: str = \"Bad request\"):\n        super().__init__(status_code=status.HTTP_400_BAD_REQUEST, detail=detail)",
+        "detail": "app.core.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "verify_password",
+        "kind": 2,
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "peekOfCode": "def verify_password(plain_password: str, hashed_password: str) -> bool:\n    return bcrypt.checkpw(plain_password.encode(\"utf-8\"), hashed_password.encode(\"utf-8\"))\ndef get_password_hash(password: str) -> str:\n    salt = bcrypt.gensalt()\n    return bcrypt.hashpw(password.encode(\"utf-8\"), salt).decode(\"utf-8\")\ndef create_access_token(subject: Union[str, int], expires_delta: Optional[timedelta] = None) -> str:\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "get_password_hash",
+        "kind": 2,
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "peekOfCode": "def get_password_hash(password: str) -> str:\n    salt = bcrypt.gensalt()\n    return bcrypt.hashpw(password.encode(\"utf-8\"), salt).decode(\"utf-8\")\ndef create_access_token(subject: Union[str, int], expires_delta: Optional[timedelta] = None) -> str:\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\"exp\": expire, \"sub\": str(subject), \"type\": \"access\"}\n    return jwt.encode(to_encode, settings.SECRET_KEY, algorithm=settings.ALGORITHM)",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "kind": 2,
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "peekOfCode": "def create_access_token(subject: Union[str, int], expires_delta: Optional[timedelta] = None) -> str:\n    if expires_delta:\n        expire = datetime.utcnow() + expires_delta\n    else:\n        expire = datetime.utcnow() + timedelta(minutes=settings.ACCESS_TOKEN_EXPIRE_MINUTES)\n    to_encode = {\"exp\": expire, \"sub\": str(subject), \"type\": \"access\"}\n    return jwt.encode(to_encode, settings.SECRET_KEY, algorithm=settings.ALGORITHM)\ndef create_refresh_token(subject: Union[str, int]) -> str:\n    expire = datetime.utcnow() + timedelta(days=settings.REFRESH_TOKEN_EXPIRE_DAYS)\n    to_encode = {\"exp\": expire, \"sub\": str(subject), \"type\": \"refresh\"}",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "create_refresh_token",
+        "kind": 2,
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "peekOfCode": "def create_refresh_token(subject: Union[str, int]) -> str:\n    expire = datetime.utcnow() + timedelta(days=settings.REFRESH_TOKEN_EXPIRE_DAYS)\n    to_encode = {\"exp\": expire, \"sub\": str(subject), \"type\": \"refresh\"}\n    return jwt.encode(to_encode, settings.SECRET_KEY, algorithm=settings.ALGORITHM)\ndef decode_token(token: str) -> Optional[dict]:\n    try:\n        payload = jwt.decode(token, settings.SECRET_KEY, algorithms=[settings.ALGORITHM])\n        return payload\n    except JWTError:\n        return None",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "decode_token",
+        "kind": 2,
+        "importPath": "app.core.security",
+        "description": "app.core.security",
+        "peekOfCode": "def decode_token(token: str) -> Optional[dict]:\n    try:\n        payload = jwt.decode(token, settings.SECRET_KEY, algorithms=[settings.ALGORITHM])\n        return payload\n    except JWTError:\n        return None",
+        "detail": "app.core.security",
+        "documentation": {}
+    },
+    {
+        "label": "TimestampMixin",
+        "kind": 6,
+        "importPath": "app.db.base_model",
+        "description": "app.db.base_model",
+        "peekOfCode": "class TimestampMixin:\n    created_at = Column(DateTime, default=datetime.utcnow, nullable=False)\n    updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow, nullable=False)\nclass UUIDMixin:\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4, index=True)",
+        "detail": "app.db.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "UUIDMixin",
+        "kind": 6,
+        "importPath": "app.db.base_model",
+        "description": "app.db.base_model",
+        "peekOfCode": "class UUIDMixin:\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4, index=True)",
+        "detail": "app.db.base_model",
+        "documentation": {}
+    },
+    {
+        "label": "get_db",
+        "kind": 2,
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "peekOfCode": "def get_db():\n    \"\"\"Dependency for getting DB session.\"\"\"\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "peekOfCode": "engine = create_engine(\n    settings.DATABASE_URL,\n    pool_pre_ping=True,\n    pool_size=10,\n    max_overflow=20,\n    echo=settings.DEBUG,\n)\nSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():",
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "SessionLocal",
+        "kind": 5,
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "peekOfCode": "SessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\nBase = declarative_base()\ndef get_db():\n    \"\"\"Dependency for getting DB session.\"\"\"\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "Base",
+        "kind": 5,
+        "importPath": "app.db.session",
+        "description": "app.db.session",
+        "peekOfCode": "Base = declarative_base()\ndef get_db():\n    \"\"\"Dependency for getting DB session.\"\"\"\n    db = SessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()",
+        "detail": "app.db.session",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_user",
+        "kind": 2,
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "peekOfCode": "def get_current_user(\n    credentials: HTTPAuthorizationCredentials = Depends(security),\n    db: Session = Depends(get_db),\n) -> User:\n    token = credentials.credentials\n    payload = decode_token(token)\n    if not payload or payload.get(\"type\") != \"access\":\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,\n            detail=\"Invalid or expired token\",",
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "get_current_active_user",
+        "kind": 2,
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "peekOfCode": "def get_current_active_user(current_user: User = Depends(get_current_user)) -> User:\n    return current_user\ndef require_admin(current_user: User = Depends(get_current_user)) -> User:\n    if current_user.role != UserRole.ADMIN:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Admin access required\")\n    return current_user\ndef require_restaurant_owner(current_user: User = Depends(get_current_user)) -> User:\n    if current_user.role not in [UserRole.RESTAURANT_OWNER, UserRole.ADMIN]:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,",
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "require_admin",
+        "kind": 2,
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "peekOfCode": "def require_admin(current_user: User = Depends(get_current_user)) -> User:\n    if current_user.role != UserRole.ADMIN:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Admin access required\")\n    return current_user\ndef require_restaurant_owner(current_user: User = Depends(get_current_user)) -> User:\n    if current_user.role not in [UserRole.RESTAURANT_OWNER, UserRole.ADMIN]:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Restaurant owner access required\",\n        )",
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "require_restaurant_owner",
+        "kind": 2,
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "peekOfCode": "def require_restaurant_owner(current_user: User = Depends(get_current_user)) -> User:\n    if current_user.role not in [UserRole.RESTAURANT_OWNER, UserRole.ADMIN]:\n        raise HTTPException(\n            status_code=status.HTTP_403_FORBIDDEN,\n            detail=\"Restaurant owner access required\",\n        )\n    return current_user\ndef require_admin_or_owner(current_user: User = Depends(get_current_user)) -> User:\n    if current_user.role not in [UserRole.ADMIN, UserRole.RESTAURANT_OWNER]:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Insufficient permissions\")",
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "require_admin_or_owner",
+        "kind": 2,
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "peekOfCode": "def require_admin_or_owner(current_user: User = Depends(get_current_user)) -> User:\n    if current_user.role not in [UserRole.ADMIN, UserRole.RESTAURANT_OWNER]:\n        raise HTTPException(status_code=status.HTTP_403_FORBIDDEN, detail=\"Insufficient permissions\")\n    return current_user",
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "security",
+        "kind": 5,
+        "importPath": "app.dependencies.auth",
+        "description": "app.dependencies.auth",
+        "peekOfCode": "security = HTTPBearer()\ndef get_current_user(\n    credentials: HTTPAuthorizationCredentials = Depends(security),\n    db: Session = Depends(get_db),\n) -> User:\n    token = credentials.credentials\n    payload = decode_token(token)\n    if not payload or payload.get(\"type\") != \"access\":\n        raise HTTPException(\n            status_code=status.HTTP_401_UNAUTHORIZED,",
+        "detail": "app.dependencies.auth",
+        "documentation": {}
+    },
+    {
+        "label": "UserRole",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class UserRole(str, PyEnum):\n    CUSTOMER = \"customer\"\n    ADMIN = \"admin\"\n    RESTAURANT_OWNER = \"restaurant_owner\"\n    DELIVERY_AGENT = \"delivery_agent\"\nclass OrderStatus(str, PyEnum):\n    PENDING = \"pending\"\n    CONFIRMED = \"confirmed\"\n    PREPARING = \"preparing\"\n    READY_FOR_PICKUP = \"ready_for_pickup\"",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatus",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class OrderStatus(str, PyEnum):\n    PENDING = \"pending\"\n    CONFIRMED = \"confirmed\"\n    PREPARING = \"preparing\"\n    READY_FOR_PICKUP = \"ready_for_pickup\"\n    OUT_FOR_DELIVERY = \"out_for_delivery\"\n    DELIVERED = \"delivered\"\n    CANCELLED = \"cancelled\"\nclass PaymentStatus(str, PyEnum):\n    UNPAID = \"unpaid\"",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentStatus",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class PaymentStatus(str, PyEnum):\n    UNPAID = \"unpaid\"\n    PAID = \"paid\"\n    REFUNDED = \"refunded\"\n    FAILED = \"failed\"\nclass PaymentMethod(str, PyEnum):\n    CASH = \"cash\"\n    CARD = \"card\"\n    STRIPE = \"stripe\"\n# ─────────────────────────── User ────────────────────────────",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentMethod",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class PaymentMethod(str, PyEnum):\n    CASH = \"cash\"\n    CARD = \"card\"\n    STRIPE = \"stripe\"\n# ─────────────────────────── User ────────────────────────────\nclass User(Base):\n    __tablename__ = \"users\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    email = Column(String(255), unique=True, nullable=False, index=True)\n    phone = Column(String(20), unique=True, nullable=True)",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class User(Base):\n    __tablename__ = \"users\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    email = Column(String(255), unique=True, nullable=False, index=True)\n    phone = Column(String(20), unique=True, nullable=True)\n    full_name = Column(String(255), nullable=False)\n    password_hash = Column(String(255), nullable=False)\n    role = Column(Enum(UserRole), default=UserRole.CUSTOMER, nullable=False)\n    is_active = Column(Boolean, default=True)\n    is_verified = Column(Boolean, default=False)",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Address",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class Address(Base):\n    __tablename__ = \"addresses\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    user_id = Column(UUID(as_uuid=True), ForeignKey(\"users.id\"), nullable=False)\n    label = Column(String(100), default=\"Home\")  # Home, Work, Other\n    street = Column(String(500), nullable=False)\n    city = Column(String(100), nullable=False)\n    state = Column(String(100), nullable=False)\n    zip_code = Column(String(20), nullable=False)\n    country = Column(String(100), default=\"US\")",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Restaurant",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class Restaurant(Base):\n    __tablename__ = \"restaurants\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    owner_id = Column(UUID(as_uuid=True), ForeignKey(\"users.id\"), nullable=False)\n    name = Column(String(255), nullable=False)\n    description = Column(Text, nullable=True)\n    address = Column(String(500), nullable=False)\n    city = Column(String(100), nullable=False)\n    phone = Column(String(20), nullable=True)\n    email = Column(String(255), nullable=True)",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuCategory",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class MenuCategory(Base):\n    __tablename__ = \"menu_categories\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    restaurant_id = Column(UUID(as_uuid=True), ForeignKey(\"restaurants.id\"), nullable=False)\n    name = Column(String(100), nullable=False)\n    description = Column(Text, nullable=True)\n    display_order = Column(Integer, default=0)\n    is_active = Column(Boolean, default=True)\n    created_at = Column(DateTime, default=datetime.utcnow)\n    restaurant = relationship(\"Restaurant\", back_populates=\"menu_categories\")",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItem",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class MenuItem(Base):\n    __tablename__ = \"menu_items\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    restaurant_id = Column(UUID(as_uuid=True), ForeignKey(\"restaurants.id\"), nullable=False)\n    category_id = Column(UUID(as_uuid=True), ForeignKey(\"menu_categories.id\"), nullable=True)\n    name = Column(String(255), nullable=False)\n    description = Column(Text, nullable=True)\n    price = Column(Float, nullable=False)\n    image_url = Column(String(500), nullable=True)\n    is_available = Column(Boolean, default=True)",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "CartItem",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class CartItem(Base):\n    __tablename__ = \"cart_items\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    user_id = Column(UUID(as_uuid=True), ForeignKey(\"users.id\"), nullable=False)\n    menu_item_id = Column(UUID(as_uuid=True), ForeignKey(\"menu_items.id\"), nullable=False)\n    quantity = Column(Integer, nullable=False, default=1)\n    special_instructions = Column(Text, nullable=True)\n    created_at = Column(DateTime, default=datetime.utcnow)\n    updated_at = Column(DateTime, default=datetime.utcnow, onupdate=datetime.utcnow)\n    user = relationship(\"User\", back_populates=\"cart_items\")",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Order",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class Order(Base):\n    __tablename__ = \"orders\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    user_id = Column(UUID(as_uuid=True), ForeignKey(\"users.id\"), nullable=False)\n    restaurant_id = Column(UUID(as_uuid=True), ForeignKey(\"restaurants.id\"), nullable=False)\n    delivery_address_id = Column(UUID(as_uuid=True), ForeignKey(\"addresses.id\"), nullable=True)\n    status = Column(Enum(OrderStatus), default=OrderStatus.PENDING, nullable=False)\n    payment_status = Column(Enum(PaymentStatus), default=PaymentStatus.UNPAID, nullable=False)\n    payment_method = Column(Enum(PaymentMethod), default=PaymentMethod.CASH, nullable=False)\n    subtotal = Column(Float, nullable=False)",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItem",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class OrderItem(Base):\n    __tablename__ = \"order_items\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    order_id = Column(UUID(as_uuid=True), ForeignKey(\"orders.id\"), nullable=False)\n    menu_item_id = Column(UUID(as_uuid=True), ForeignKey(\"menu_items.id\"), nullable=False)\n    quantity = Column(Integer, nullable=False)\n    unit_price = Column(Float, nullable=False)  # Price at time of order\n    total_price = Column(Float, nullable=False)\n    special_instructions = Column(Text, nullable=True)\n    order = relationship(\"Order\", back_populates=\"items\")",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderTracking",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class OrderTracking(Base):\n    __tablename__ = \"order_tracking\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    order_id = Column(UUID(as_uuid=True), ForeignKey(\"orders.id\"), nullable=False)\n    status = Column(Enum(OrderStatus), nullable=False)\n    note = Column(Text, nullable=True)\n    created_at = Column(DateTime, default=datetime.utcnow)\n    order = relationship(\"Order\", back_populates=\"tracking\")\n# ─────────────────────────── Review ────────────────────────────\nclass Review(Base):",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "kind": 6,
+        "importPath": "app.models.models",
+        "description": "app.models.models",
+        "peekOfCode": "class Review(Base):\n    __tablename__ = \"reviews\"\n    id = Column(UUID(as_uuid=True), primary_key=True, default=uuid.uuid4)\n    user_id = Column(UUID(as_uuid=True), ForeignKey(\"users.id\"), nullable=False)\n    restaurant_id = Column(UUID(as_uuid=True), ForeignKey(\"restaurants.id\"), nullable=False)\n    order_id = Column(UUID(as_uuid=True), ForeignKey(\"orders.id\"), nullable=True)\n    rating = Column(Integer, nullable=False)  # 1-5\n    comment = Column(Text, nullable=True)\n    created_at = Column(DateTime, default=datetime.utcnow)\n    user = relationship(\"User\")",
+        "detail": "app.models.models",
+        "documentation": {}
+    },
+    {
+        "label": "OrderRepository",
+        "kind": 6,
+        "importPath": "app.repositories.order_repository",
+        "description": "app.repositories.order_repository",
+        "peekOfCode": "class OrderRepository:\n    def __init__(self, db: Session):\n        self.db = db\n    def get_by_id(self, order_id: UUID) -> Optional[Order]:\n        return (\n            self.db.query(Order)\n            .options(\n                joinedload(Order.items).joinedload(OrderItem.menu_item),\n                joinedload(Order.restaurant),\n                joinedload(Order.tracking),",
+        "detail": "app.repositories.order_repository",
+        "documentation": {}
+    },
+    {
+        "label": "CartRepository",
+        "kind": 6,
+        "importPath": "app.repositories.order_repository",
+        "description": "app.repositories.order_repository",
+        "peekOfCode": "class CartRepository:\n    def __init__(self, db: Session):\n        self.db = db\n    def get_user_cart(self, user_id: UUID) -> List[CartItem]:\n        return (\n            self.db.query(CartItem)\n            .options(joinedload(CartItem.menu_item))\n            .filter(CartItem.user_id == user_id)\n            .all()\n        )",
+        "detail": "app.repositories.order_repository",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantRepository",
+        "kind": 6,
+        "importPath": "app.repositories.restaurant_repository",
+        "description": "app.repositories.restaurant_repository",
+        "peekOfCode": "class RestaurantRepository:\n    def __init__(self, db: Session):\n        self.db = db\n    def get_by_id(self, restaurant_id: UUID) -> Optional[Restaurant]:\n        return self.db.query(Restaurant).filter(Restaurant.id == restaurant_id).first()\n    def get_by_owner(self, owner_id: UUID) -> Optional[Restaurant]:\n        return self.db.query(Restaurant).filter(Restaurant.owner_id == owner_id).first()\n    def get_all(self, skip: int = 0, limit: int = 20, city: Optional[str] = None,\n                cuisine_type: Optional[str] = None, search: Optional[str] = None,\n                is_open: Optional[bool] = None) -> List[Restaurant]:",
+        "detail": "app.repositories.restaurant_repository",
+        "documentation": {}
+    },
+    {
+        "label": "MenuRepository",
+        "kind": 6,
+        "importPath": "app.repositories.restaurant_repository",
+        "description": "app.repositories.restaurant_repository",
+        "peekOfCode": "class MenuRepository:\n    def __init__(self, db: Session):\n        self.db = db\n    # ─── Categories ───\n    def get_category_by_id(self, category_id: UUID) -> Optional[MenuCategory]:\n        return self.db.query(MenuCategory).filter(MenuCategory.id == category_id).first()\n    def get_categories_by_restaurant(self, restaurant_id: UUID) -> List[MenuCategory]:\n        return (\n            self.db.query(MenuCategory)\n            .filter(MenuCategory.restaurant_id == restaurant_id, MenuCategory.is_active == True)",
+        "detail": "app.repositories.restaurant_repository",
+        "documentation": {}
+    },
+    {
+        "label": "UserRepository",
+        "kind": 6,
+        "importPath": "app.repositories.user_repository",
+        "description": "app.repositories.user_repository",
+        "peekOfCode": "class UserRepository:\n    def __init__(self, db: Session):\n        self.db = db\n    def get_by_id(self, user_id: UUID) -> Optional[User]:\n        return self.db.query(User).filter(User.id == user_id).first()\n    def get_by_email(self, email: str) -> Optional[User]:\n        return self.db.query(User).filter(User.email == email).first()\n    def get_by_phone(self, phone: str) -> Optional[User]:\n        return self.db.query(User).filter(User.phone == phone).first()\n    def get_all(self, skip: int = 0, limit: int = 20) -> List[User]:",
+        "detail": "app.repositories.user_repository",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemAdd",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class CartItemAdd(BaseModel):\n    menu_item_id: UUID\n    quantity: int = Field(..., ge=1, le=50)\n    special_instructions: Optional[str] = None\nclass CartItemUpdate(BaseModel):\n    quantity: int = Field(..., ge=1, le=50)\n    special_instructions: Optional[str] = None\nclass CartItemResponse(BaseModel):\n    id: UUID\n    menu_item: MenuItemResponse",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemUpdate",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class CartItemUpdate(BaseModel):\n    quantity: int = Field(..., ge=1, le=50)\n    special_instructions: Optional[str] = None\nclass CartItemResponse(BaseModel):\n    id: UUID\n    menu_item: MenuItemResponse\n    quantity: int\n    special_instructions: Optional[str] = None\n    item_total: float  # computed field\n    class Config:",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "CartItemResponse",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class CartItemResponse(BaseModel):\n    id: UUID\n    menu_item: MenuItemResponse\n    quantity: int\n    special_instructions: Optional[str] = None\n    item_total: float  # computed field\n    class Config:\n        from_attributes = True\nclass CartResponse(BaseModel):\n    items: List[CartItemResponse]",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "CartResponse",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class CartResponse(BaseModel):\n    items: List[CartItemResponse]\n    subtotal: float\n    item_count: int\n# ─────────────────────────── Order ────────────────────────────\nclass OrderItemCreate(BaseModel):\n    menu_item_id: UUID\n    quantity: int = Field(..., ge=1)\n    special_instructions: Optional[str] = None\nclass OrderCreate(BaseModel):",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItemCreate",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class OrderItemCreate(BaseModel):\n    menu_item_id: UUID\n    quantity: int = Field(..., ge=1)\n    special_instructions: Optional[str] = None\nclass OrderCreate(BaseModel):\n    restaurant_id: UUID\n    delivery_address_id: Optional[UUID] = None\n    payment_method: PaymentMethod = PaymentMethod.CASH\n    special_instructions: Optional[str] = None\n    # If True, pull from cart; if False, use items directly",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderCreate",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class OrderCreate(BaseModel):\n    restaurant_id: UUID\n    delivery_address_id: Optional[UUID] = None\n    payment_method: PaymentMethod = PaymentMethod.CASH\n    special_instructions: Optional[str] = None\n    # If True, pull from cart; if False, use items directly\n    from_cart: bool = True\n    items: Optional[List[OrderItemCreate]] = None  # used when from_cart=False\nclass OrderStatusUpdate(BaseModel):\n    status: OrderStatus",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderStatusUpdate",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class OrderStatusUpdate(BaseModel):\n    status: OrderStatus\n    note: Optional[str] = None\nclass OrderItemResponse(BaseModel):\n    id: UUID\n    menu_item_id: UUID\n    menu_item_name: str\n    quantity: int\n    unit_price: float\n    total_price: float",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderItemResponse",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class OrderItemResponse(BaseModel):\n    id: UUID\n    menu_item_id: UUID\n    menu_item_name: str\n    quantity: int\n    unit_price: float\n    total_price: float\n    special_instructions: Optional[str] = None\n    class Config:\n        from_attributes = True",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderTrackingResponse",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class OrderTrackingResponse(BaseModel):\n    id: UUID\n    status: OrderStatus\n    note: Optional[str] = None\n    created_at: datetime\n    class Config:\n        from_attributes = True\nclass OrderResponse(BaseModel):\n    id: UUID\n    restaurant_id: UUID",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderResponse",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class OrderResponse(BaseModel):\n    id: UUID\n    restaurant_id: UUID\n    restaurant_name: str\n    status: OrderStatus\n    payment_status: PaymentStatus\n    payment_method: PaymentMethod\n    subtotal: float\n    delivery_fee: float\n    tax: float",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "OrderListResponse",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class OrderListResponse(BaseModel):\n    id: UUID\n    restaurant_name: str\n    status: OrderStatus\n    payment_status: PaymentStatus\n    total_price: float\n    item_count: int\n    created_at: datetime\n    class Config:\n        from_attributes = True",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentIntentResponse",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class PaymentIntentResponse(BaseModel):\n    client_secret: str\n    payment_intent_id: str\n    amount: float\nclass PaymentConfirmRequest(BaseModel):\n    order_id: UUID\n    payment_intent_id: str\n# ─────────────────────────── Review ────────────────────────────\nclass ReviewCreate(BaseModel):\n    restaurant_id: UUID",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "PaymentConfirmRequest",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class PaymentConfirmRequest(BaseModel):\n    order_id: UUID\n    payment_intent_id: str\n# ─────────────────────────── Review ────────────────────────────\nclass ReviewCreate(BaseModel):\n    restaurant_id: UUID\n    order_id: Optional[UUID] = None\n    rating: int = Field(..., ge=1, le=5)\n    comment: Optional[str] = None\nclass ReviewResponse(BaseModel):",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewCreate",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class ReviewCreate(BaseModel):\n    restaurant_id: UUID\n    order_id: Optional[UUID] = None\n    rating: int = Field(..., ge=1, le=5)\n    comment: Optional[str] = None\nclass ReviewResponse(BaseModel):\n    id: UUID\n    user_id: UUID\n    restaurant_id: UUID\n    rating: int",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewResponse",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class ReviewResponse(BaseModel):\n    id: UUID\n    user_id: UUID\n    restaurant_id: UUID\n    rating: int\n    comment: Optional[str] = None\n    created_at: datetime\n    class Config:\n        from_attributes = True\n# ─────────────────────────── Common ────────────────────────────",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "PaginatedResponse",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class PaginatedResponse(BaseModel):\n    items: list\n    total: int\n    page: int\n    per_page: int\n    total_pages: int\nclass MessageResponse(BaseModel):\n    message: str\n    success: bool = True",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "MessageResponse",
+        "kind": 6,
+        "importPath": "app.schemas.order",
+        "description": "app.schemas.order",
+        "peekOfCode": "class MessageResponse(BaseModel):\n    message: str\n    success: bool = True",
+        "detail": "app.schemas.order",
+        "documentation": {}
+    },
+    {
+        "label": "AddressBase",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class AddressBase(BaseModel):\n    label: str = \"Home\"\n    street: str\n    city: str\n    state: str\n    zip_code: str\n    country: str = \"US\"\n    latitude: Optional[float] = None\n    longitude: Optional[float] = None\n    is_default: bool = False",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "AddressCreate",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class AddressCreate(AddressBase):\n    pass\nclass AddressResponse(AddressBase):\n    id: UUID\n    user_id: UUID\n    created_at: datetime\n    class Config:\n        from_attributes = True\n# ─────────────────────────── Restaurant ────────────────────────────\nclass RestaurantBase(BaseModel):",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "AddressResponse",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class AddressResponse(AddressBase):\n    id: UUID\n    user_id: UUID\n    created_at: datetime\n    class Config:\n        from_attributes = True\n# ─────────────────────────── Restaurant ────────────────────────────\nclass RestaurantBase(BaseModel):\n    name: str = Field(..., min_length=2, max_length=255)\n    description: Optional[str] = None",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantBase",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class RestaurantBase(BaseModel):\n    name: str = Field(..., min_length=2, max_length=255)\n    description: Optional[str] = None\n    address: str\n    city: str\n    phone: Optional[str] = None\n    email: Optional[EmailStr] = None\n    cuisine_type: Optional[str] = None\n    delivery_fee: float = Field(0.0, ge=0)\n    min_order_amount: float = Field(0.0, ge=0)",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantCreate",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class RestaurantCreate(RestaurantBase):\n    pass\nclass RestaurantUpdate(BaseModel):\n    name: Optional[str] = Field(None, min_length=2, max_length=255)\n    description: Optional[str] = None\n    address: Optional[str] = None\n    city: Optional[str] = None\n    phone: Optional[str] = None\n    email: Optional[EmailStr] = None\n    cuisine_type: Optional[str] = None",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantUpdate",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class RestaurantUpdate(BaseModel):\n    name: Optional[str] = Field(None, min_length=2, max_length=255)\n    description: Optional[str] = None\n    address: Optional[str] = None\n    city: Optional[str] = None\n    phone: Optional[str] = None\n    email: Optional[EmailStr] = None\n    cuisine_type: Optional[str] = None\n    logo_url: Optional[str] = None\n    cover_image_url: Optional[str] = None",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantResponse",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class RestaurantResponse(RestaurantBase):\n    id: UUID\n    owner_id: UUID\n    logo_url: Optional[str] = None\n    cover_image_url: Optional[str] = None\n    rating: float\n    total_reviews: int\n    is_active: bool\n    is_open: bool\n    created_at: datetime",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantListResponse",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class RestaurantListResponse(BaseModel):\n    id: UUID\n    name: str\n    cuisine_type: Optional[str]\n    rating: float\n    total_reviews: int\n    delivery_fee: float\n    min_order_amount: float\n    avg_delivery_time: int\n    is_open: bool",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuCategoryBase",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class MenuCategoryBase(BaseModel):\n    name: str = Field(..., min_length=1, max_length=100)\n    description: Optional[str] = None\n    display_order: int = 0\nclass MenuCategoryCreate(MenuCategoryBase):\n    restaurant_id: UUID\nclass MenuCategoryResponse(MenuCategoryBase):\n    id: UUID\n    restaurant_id: UUID\n    is_active: bool",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuCategoryCreate",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class MenuCategoryCreate(MenuCategoryBase):\n    restaurant_id: UUID\nclass MenuCategoryResponse(MenuCategoryBase):\n    id: UUID\n    restaurant_id: UUID\n    is_active: bool\n    class Config:\n        from_attributes = True\n# ─────────────────────────── Menu Item ────────────────────────────\nclass MenuItemBase(BaseModel):",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuCategoryResponse",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class MenuCategoryResponse(MenuCategoryBase):\n    id: UUID\n    restaurant_id: UUID\n    is_active: bool\n    class Config:\n        from_attributes = True\n# ─────────────────────────── Menu Item ────────────────────────────\nclass MenuItemBase(BaseModel):\n    name: str = Field(..., min_length=2, max_length=255)\n    description: Optional[str] = None",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemBase",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class MenuItemBase(BaseModel):\n    name: str = Field(..., min_length=2, max_length=255)\n    description: Optional[str] = None\n    price: float = Field(..., gt=0)\n    image_url: Optional[str] = None\n    is_available: bool = True\n    is_vegetarian: bool = False\n    is_vegan: bool = False\n    calories: Optional[int] = None\n    preparation_time: int = Field(15, ge=1)",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemCreate",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class MenuItemCreate(MenuItemBase):\n    restaurant_id: UUID\nclass MenuItemUpdate(BaseModel):\n    name: Optional[str] = Field(None, min_length=2, max_length=255)\n    description: Optional[str] = None\n    price: Optional[float] = Field(None, gt=0)\n    image_url: Optional[str] = None\n    is_available: Optional[bool] = None\n    is_vegetarian: Optional[bool] = None\n    is_vegan: Optional[bool] = None",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemUpdate",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class MenuItemUpdate(BaseModel):\n    name: Optional[str] = Field(None, min_length=2, max_length=255)\n    description: Optional[str] = None\n    price: Optional[float] = Field(None, gt=0)\n    image_url: Optional[str] = None\n    is_available: Optional[bool] = None\n    is_vegetarian: Optional[bool] = None\n    is_vegan: Optional[bool] = None\n    calories: Optional[int] = None\n    preparation_time: Optional[int] = None",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuItemResponse",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class MenuItemResponse(MenuItemBase):\n    id: UUID\n    restaurant_id: UUID\n    class Config:\n        from_attributes = True\nclass MenuResponse(BaseModel):\n    restaurant: RestaurantResponse\n    categories: List[MenuCategoryResponse]\n    items: List[MenuItemResponse]",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "MenuResponse",
+        "kind": 6,
+        "importPath": "app.schemas.restaurant",
+        "description": "app.schemas.restaurant",
+        "peekOfCode": "class MenuResponse(BaseModel):\n    restaurant: RestaurantResponse\n    categories: List[MenuCategoryResponse]\n    items: List[MenuItemResponse]",
+        "detail": "app.schemas.restaurant",
+        "documentation": {}
+    },
+    {
+        "label": "UserBase",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserBase(BaseModel):\n    email: EmailStr\n    full_name: str = Field(..., min_length=2, max_length=255)\n    phone: Optional[str] = None\nclass UserRegister(UserBase):\n    password: str = Field(..., min_length=8, max_length=100)\nclass UserLogin(BaseModel):\n    email: EmailStr\n    password: str\nclass UserUpdate(BaseModel):",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserRegister",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserRegister(UserBase):\n    password: str = Field(..., min_length=8, max_length=100)\nclass UserLogin(BaseModel):\n    email: EmailStr\n    password: str\nclass UserUpdate(BaseModel):\n    full_name: Optional[str] = Field(None, min_length=2, max_length=255)\n    phone: Optional[str] = None\n    profile_picture: Optional[str] = None\nclass UserResponse(UserBase):",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserLogin",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserLogin(BaseModel):\n    email: EmailStr\n    password: str\nclass UserUpdate(BaseModel):\n    full_name: Optional[str] = Field(None, min_length=2, max_length=255)\n    phone: Optional[str] = None\n    profile_picture: Optional[str] = None\nclass UserResponse(UserBase):\n    id: UUID\n    role: UserRole",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserUpdate",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserUpdate(BaseModel):\n    full_name: Optional[str] = Field(None, min_length=2, max_length=255)\n    phone: Optional[str] = None\n    profile_picture: Optional[str] = None\nclass UserResponse(UserBase):\n    id: UUID\n    role: UserRole\n    is_active: bool\n    is_verified: bool\n    profile_picture: Optional[str] = None",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserResponse",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserResponse(UserBase):\n    id: UUID\n    role: UserRole\n    is_active: bool\n    is_verified: bool\n    profile_picture: Optional[str] = None\n    created_at: datetime\n    class Config:\n        from_attributes = True\nclass UserAdminResponse(UserResponse):",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "UserAdminResponse",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class UserAdminResponse(UserResponse):\n    updated_at: datetime\nclass TokenResponse(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\n    user: UserResponse\nclass RefreshTokenRequest(BaseModel):\n    refresh_token: str\nclass ChangePasswordRequest(BaseModel):",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "TokenResponse",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class TokenResponse(BaseModel):\n    access_token: str\n    refresh_token: str\n    token_type: str = \"bearer\"\n    user: UserResponse\nclass RefreshTokenRequest(BaseModel):\n    refresh_token: str\nclass ChangePasswordRequest(BaseModel):\n    current_password: str\n    new_password: str = Field(..., min_length=8)",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "RefreshTokenRequest",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class RefreshTokenRequest(BaseModel):\n    refresh_token: str\nclass ChangePasswordRequest(BaseModel):\n    current_password: str\n    new_password: str = Field(..., min_length=8)",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "ChangePasswordRequest",
+        "kind": 6,
+        "importPath": "app.schemas.user",
+        "description": "app.schemas.user",
+        "peekOfCode": "class ChangePasswordRequest(BaseModel):\n    current_password: str\n    new_password: str = Field(..., min_length=8)",
+        "detail": "app.schemas.user",
+        "documentation": {}
+    },
+    {
+        "label": "seed",
+        "kind": 2,
+        "importPath": "app.scripts.seed",
+        "description": "app.scripts.seed",
+        "peekOfCode": "def seed():\n    db = SessionLocal()\n    print(\"🌱 Seeding database...\")\n    # ─── Admin User ───\n    admin = db.query(User).filter(User.email == \"admin@foodapp.com\").first()\n    if not admin:\n        admin = User(\n            id=uuid.uuid4(),\n            email=\"admin@foodapp.com\",\n            full_name=\"Super Admin\",",
+        "detail": "app.scripts.seed",
+        "documentation": {}
+    },
+    {
+        "label": "_here",
+        "kind": 5,
+        "importPath": "app.scripts.seed",
+        "description": "app.scripts.seed",
+        "peekOfCode": "_here = os.path.dirname(os.path.abspath(__file__))\n_one_up = os.path.dirname(_here)\n_two_up = os.path.dirname(_one_up)\nfor _candidate in (_one_up, _two_up):\n    if os.path.isdir(os.path.join(_candidate, \"app\")):\n        sys.path.insert(0, _candidate)\n        break\nfrom app.db.session import SessionLocal, engine, Base\nfrom app.models.models import (\n    User, Restaurant, MenuCategory, MenuItem, UserRole",
+        "detail": "app.scripts.seed",
+        "documentation": {}
+    },
+    {
+        "label": "_one_up",
+        "kind": 5,
+        "importPath": "app.scripts.seed",
+        "description": "app.scripts.seed",
+        "peekOfCode": "_one_up = os.path.dirname(_here)\n_two_up = os.path.dirname(_one_up)\nfor _candidate in (_one_up, _two_up):\n    if os.path.isdir(os.path.join(_candidate, \"app\")):\n        sys.path.insert(0, _candidate)\n        break\nfrom app.db.session import SessionLocal, engine, Base\nfrom app.models.models import (\n    User, Restaurant, MenuCategory, MenuItem, UserRole\n)",
+        "detail": "app.scripts.seed",
+        "documentation": {}
+    },
+    {
+        "label": "_two_up",
+        "kind": 5,
+        "importPath": "app.scripts.seed",
+        "description": "app.scripts.seed",
+        "peekOfCode": "_two_up = os.path.dirname(_one_up)\nfor _candidate in (_one_up, _two_up):\n    if os.path.isdir(os.path.join(_candidate, \"app\")):\n        sys.path.insert(0, _candidate)\n        break\nfrom app.db.session import SessionLocal, engine, Base\nfrom app.models.models import (\n    User, Restaurant, MenuCategory, MenuItem, UserRole\n)\nfrom app.core.security import get_password_hash",
+        "detail": "app.scripts.seed",
+        "documentation": {}
+    },
+    {
+        "label": "AuthService",
+        "kind": 6,
+        "importPath": "app.services.auth_service",
+        "description": "app.services.auth_service",
+        "peekOfCode": "class AuthService:\n    def __init__(self, db: Session):\n        self.db = db\n        self.user_repo = UserRepository(db)\n    def register(self, data: UserRegister, role: UserRole = UserRole.CUSTOMER) -> TokenResponse:\n        # Check existing user\n        if self.user_repo.get_by_email(data.email):\n            raise ConflictException(\"A user with this email already exists\")\n        if data.phone and self.user_repo.get_by_phone(data.phone):\n            raise ConflictException(\"A user with this phone already exists\")",
+        "detail": "app.services.auth_service",
+        "documentation": {}
+    },
+    {
+        "label": "CartService",
+        "kind": 6,
+        "importPath": "app.services.order_service",
+        "description": "app.services.order_service",
+        "peekOfCode": "class CartService:\n    def __init__(self, db: Session):\n        self.db = db\n        self.cart_repo = CartRepository(db)\n        self.menu_repo = MenuRepository(db)\n    def get_cart(self, user: User) -> dict:\n        items = self.cart_repo.get_user_cart(user.id)\n        cart_items_response = []\n        subtotal = 0.0\n        for item in items:",
+        "detail": "app.services.order_service",
+        "documentation": {}
+    },
+    {
+        "label": "OrderService",
+        "kind": 6,
+        "importPath": "app.services.order_service",
+        "description": "app.services.order_service",
+        "peekOfCode": "class OrderService:\n    def __init__(self, db: Session):\n        self.db = db\n        self.order_repo = OrderRepository(db)\n        self.cart_repo = CartRepository(db)\n        self.restaurant_repo = RestaurantRepository(db)\n        self.menu_repo = MenuRepository(db)\n    def create_order(self, user: User, data: OrderCreate) -> dict:\n        # Validate restaurant\n        restaurant = self.restaurant_repo.get_by_id(data.restaurant_id)",
+        "detail": "app.services.order_service",
+        "documentation": {}
+    },
+    {
+        "label": "RestaurantService",
+        "kind": 6,
+        "importPath": "app.services.restaurant_service",
+        "description": "app.services.restaurant_service",
+        "peekOfCode": "class RestaurantService:\n    def __init__(self, db: Session):\n        self.db = db\n        self.restaurant_repo = RestaurantRepository(db)\n    def get_all(self, skip: int = 0, limit: int = 20, city: Optional[str] = None,\n                cuisine_type: Optional[str] = None, search: Optional[str] = None,\n                is_open: Optional[bool] = None):\n        restaurants = self.restaurant_repo.get_all(skip, limit, city, cuisine_type, search, is_open)\n        total = self.restaurant_repo.count(city, cuisine_type)\n        return restaurants, total",
+        "detail": "app.services.restaurant_service",
+        "documentation": {}
+    },
+    {
+        "label": "MenuService",
+        "kind": 6,
+        "importPath": "app.services.restaurant_service",
+        "description": "app.services.restaurant_service",
+        "peekOfCode": "class MenuService:\n    def __init__(self, db: Session):\n        self.db = db\n        self.restaurant_repo = RestaurantRepository(db)\n        self.menu_repo = MenuRepository(db)\n    def get_menu(self, restaurant_id: UUID) -> dict:\n        restaurant = self.restaurant_repo.get_by_id(restaurant_id)\n        if not restaurant or not restaurant.is_active:\n            raise NotFoundException(\"Restaurant\")\n        categories = self.menu_repo.get_categories_by_restaurant(restaurant_id)",
+        "detail": "app.services.restaurant_service",
+        "documentation": {}
+    },
+    {
+        "label": "TestAuth",
+        "kind": 6,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "class TestAuth:\n    def test_register_success(self, client):\n        resp = client.post(\"/api/v1/auth/register\", json=CUSTOMER)\n        assert resp.status_code == 200\n        data = resp.json()\n        assert \"access_token\" in data\n        assert \"refresh_token\" in data\n        assert data[\"user\"][\"email\"] == CUSTOMER[\"email\"]\n    def test_register_duplicate_email(self, client):\n        client.post(\"/api/v1/auth/register\", json=CUSTOMER)",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "TestRestaurants",
+        "kind": 6,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "class TestRestaurants:\n    def test_list_restaurants(self, client):\n        resp = client.get(\"/api/v1/restaurants\")\n        assert resp.status_code == 200\n        assert \"items\" in resp.json()\n    def test_create_restaurant(self, client):\n        token = register_and_login(client, OWNER)\n        resp = client.post(\"/api/v1/restaurants\", json=RESTAURANT_DATA, headers=auth_headers(token))\n        assert resp.status_code == 201\n        data = resp.json()",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "TestMenu",
+        "kind": 6,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "class TestMenu:\n    def setup_restaurant(self, client) -> tuple:\n        token = register_and_login(client, OWNER)\n        create_resp = client.post(\"/api/v1/restaurants\", json=RESTAURANT_DATA, headers=auth_headers(token))\n        return create_resp.json()[\"id\"], token\n    def test_create_menu_item(self, client):\n        restaurant_id, token = self.setup_restaurant(client)\n        resp = client.post(\"/api/v1/menu/items\", json={\n            \"restaurant_id\": restaurant_id,\n            \"name\": \"Classic Burger\",",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "TestCart",
+        "kind": 6,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "class TestCart:\n    def setup(self, client) -> tuple:\n        \"\"\"Create restaurant + menu item + customer. Return (item_id, customer_token).\"\"\"\n        owner_token = register_and_login(client, OWNER)\n        rest_resp = client.post(\"/api/v1/restaurants\", json=RESTAURANT_DATA, headers=auth_headers(owner_token))\n        restaurant_id = rest_resp.json()[\"id\"]\n        item_resp = client.post(\"/api/v1/menu/items\", json={\n            \"restaurant_id\": restaurant_id,\n            \"name\": \"Cheeseburger\",\n            \"price\": 9.99,",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "TestOrders",
+        "kind": 6,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "class TestOrders:\n    def full_setup(self, client):\n        \"\"\"Full setup: restaurant, menu item, customer with item in cart.\"\"\"\n        owner_token = register_and_login(client, {\n            \"email\": \"ordowner@test.com\",\n            \"full_name\": \"Order Owner\",\n            \"password\": \"Secure123!\",\n        })\n        rest_resp = client.post(\"/api/v1/restaurants\", json=RESTAURANT_DATA, headers=auth_headers(owner_token))\n        restaurant_id = rest_resp.json()[\"id\"]",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "TestHealth",
+        "kind": 6,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "class TestHealth:\n    def test_root(self, client):\n        resp = client.get(\"/\")\n        assert resp.status_code == 200\n        assert resp.json()[\"status\"] == \"running\"\n    def test_health_check(self, client):\n        resp = client.get(\"/health\")\n        assert resp.status_code == 200\n        assert resp.json()[\"status\"] == \"healthy\"",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "override_get_db",
+        "kind": 2,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "def override_get_db():\n    db = TestingSessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@pytest.fixture(scope=\"session\", autouse=True)\ndef setup_db():\n    Base.metadata.create_all(bind=engine)\n    yield",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "setup_db",
+        "kind": 2,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "def setup_db():\n    Base.metadata.create_all(bind=engine)\n    yield\n    Base.metadata.drop_all(bind=engine)\n@pytest.fixture(autouse=True)\ndef override_dependency():\n    app.dependency_overrides[get_db] = override_get_db\n    yield\n    app.dependency_overrides.clear()\n@pytest.fixture",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "override_dependency",
+        "kind": 2,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "def override_dependency():\n    app.dependency_overrides[get_db] = override_get_db\n    yield\n    app.dependency_overrides.clear()\n@pytest.fixture\ndef client():\n    return TestClient(app)\n# ─────────────────────────── Fixtures ────────────────────────────\nCUSTOMER = {\n    \"email\": \"customer@test.com\",",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 2,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "def client():\n    return TestClient(app)\n# ─────────────────────────── Fixtures ────────────────────────────\nCUSTOMER = {\n    \"email\": \"customer@test.com\",\n    \"full_name\": \"Test Customer\",\n    \"password\": \"Secure123!\",\n}\nOWNER = {\n    \"email\": \"owner@test.com\",",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "register_and_login",
+        "kind": 2,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "def register_and_login(client, user_data) -> str:\n    \"\"\"Helper: register user and return access token.\"\"\"\n    client.post(\"/api/v1/auth/register\", json=user_data)\n    resp = client.post(\"/api/v1/auth/login\", json={\n        \"email\": user_data[\"email\"],\n        \"password\": user_data[\"password\"],\n    })\n    return resp.json()[\"access_token\"]\ndef auth_headers(token: str) -> dict:\n    return {\"Authorization\": f\"Bearer {token}\"}",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "auth_headers",
+        "kind": 2,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "def auth_headers(token: str) -> dict:\n    return {\"Authorization\": f\"Bearer {token}\"}\n# ─────────────────────────── Auth Tests ────────────────────────────\nclass TestAuth:\n    def test_register_success(self, client):\n        resp = client.post(\"/api/v1/auth/register\", json=CUSTOMER)\n        assert resp.status_code == 200\n        data = resp.json()\n        assert \"access_token\" in data\n        assert \"refresh_token\" in data",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "SQLALCHEMY_TEST_URL",
+        "kind": 5,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "SQLALCHEMY_TEST_URL = \"sqlite:///./test.db\"\nengine = create_engine(SQLALCHEMY_TEST_URL, connect_args={\"check_same_thread\": False})\nTestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\ndef override_get_db():\n    db = TestingSessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@pytest.fixture(scope=\"session\", autouse=True)",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "engine",
+        "kind": 5,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "engine = create_engine(SQLALCHEMY_TEST_URL, connect_args={\"check_same_thread\": False})\nTestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\ndef override_get_db():\n    db = TestingSessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@pytest.fixture(scope=\"session\", autouse=True)\ndef setup_db():",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "TestingSessionLocal",
+        "kind": 5,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "TestingSessionLocal = sessionmaker(autocommit=False, autoflush=False, bind=engine)\ndef override_get_db():\n    db = TestingSessionLocal()\n    try:\n        yield db\n    finally:\n        db.close()\n@pytest.fixture(scope=\"session\", autouse=True)\ndef setup_db():\n    Base.metadata.create_all(bind=engine)",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "CUSTOMER",
+        "kind": 5,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "CUSTOMER = {\n    \"email\": \"customer@test.com\",\n    \"full_name\": \"Test Customer\",\n    \"password\": \"Secure123!\",\n}\nOWNER = {\n    \"email\": \"owner@test.com\",\n    \"full_name\": \"Restaurant Owner\",\n    \"password\": \"Secure123!\",\n}",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "OWNER",
+        "kind": 5,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "OWNER = {\n    \"email\": \"owner@test.com\",\n    \"full_name\": \"Restaurant Owner\",\n    \"password\": \"Secure123!\",\n}\nRESTAURANT_DATA = {\n    \"name\": \"Burger Palace\",\n    \"description\": \"Best burgers in town\",\n    \"address\": \"123 Main St\",\n    \"city\": \"New York\",",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "RESTAURANT_DATA",
+        "kind": 5,
+        "importPath": "app.tests.test_api",
+        "description": "app.tests.test_api",
+        "peekOfCode": "RESTAURANT_DATA = {\n    \"name\": \"Burger Palace\",\n    \"description\": \"Best burgers in town\",\n    \"address\": \"123 Main St\",\n    \"city\": \"New York\",\n    \"cuisine_type\": \"American\",\n    \"delivery_fee\": 2.99,\n    \"min_order_amount\": 10.0,\n    \"avg_delivery_time\": 30,\n}",
+        "detail": "app.tests.test_api",
+        "documentation": {}
+    },
+    {
+        "label": "Cache",
+        "kind": 6,
+        "importPath": "app.utils.cache",
+        "description": "app.utils.cache",
+        "peekOfCode": "class Cache:\n    \"\"\"Simple Redis cache wrapper.\"\"\"\n    def __init__(self):\n        self.redis = get_redis()\n    def get(self, key: str) -> Optional[Any]:\n        try:\n            value = self.redis.get(key)\n            return json.loads(value) if value else None\n        except Exception:\n            return None",
+        "detail": "app.utils.cache",
+        "documentation": {}
+    },
+    {
+        "label": "get_redis",
+        "kind": 2,
+        "importPath": "app.utils.cache",
+        "description": "app.utils.cache",
+        "peekOfCode": "def get_redis() -> redis.Redis:\n    global _redis_client\n    if _redis_client is None:\n        _redis_client = redis.from_url(settings.REDIS_URL, decode_responses=True)\n    return _redis_client\nclass Cache:\n    \"\"\"Simple Redis cache wrapper.\"\"\"\n    def __init__(self):\n        self.redis = get_redis()\n    def get(self, key: str) -> Optional[Any]:",
+        "detail": "app.utils.cache",
+        "documentation": {}
+    },
+    {
+        "label": "restaurant_cache_key",
+        "kind": 2,
+        "importPath": "app.utils.cache",
+        "description": "app.utils.cache",
+        "peekOfCode": "def restaurant_cache_key(restaurant_id: str) -> str:\n    return f\"restaurant:{restaurant_id}\"\ndef menu_cache_key(restaurant_id: str) -> str:\n    return f\"menu:{restaurant_id}\"\ndef restaurants_list_key(city: str = \"all\", cuisine: str = \"all\") -> str:\n    return f\"restaurants:list:{city}:{cuisine}\"",
+        "detail": "app.utils.cache",
+        "documentation": {}
+    },
+    {
+        "label": "menu_cache_key",
+        "kind": 2,
+        "importPath": "app.utils.cache",
+        "description": "app.utils.cache",
+        "peekOfCode": "def menu_cache_key(restaurant_id: str) -> str:\n    return f\"menu:{restaurant_id}\"\ndef restaurants_list_key(city: str = \"all\", cuisine: str = \"all\") -> str:\n    return f\"restaurants:list:{city}:{cuisine}\"",
+        "detail": "app.utils.cache",
+        "documentation": {}
+    },
+    {
+        "label": "restaurants_list_key",
+        "kind": 2,
+        "importPath": "app.utils.cache",
+        "description": "app.utils.cache",
+        "peekOfCode": "def restaurants_list_key(city: str = \"all\", cuisine: str = \"all\") -> str:\n    return f\"restaurants:list:{city}:{cuisine}\"",
+        "detail": "app.utils.cache",
+        "documentation": {}
+    },
+    {
+        "label": "celery_app",
+        "kind": 5,
+        "importPath": "app.workers.celery_app",
+        "description": "app.workers.celery_app",
+        "peekOfCode": "celery_app = Celery(\n    \"food_ordering\",\n    broker=settings.REDIS_URL,\n    backend=settings.REDIS_URL,\n    include=[\"app.workers.tasks\"],\n)\ncelery_app.conf.update(\n    task_serializer=\"json\",\n    accept_content=[\"json\"],\n    result_serializer=\"json\",",
+        "detail": "app.workers.celery_app",
+        "documentation": {}
+    },
+    {
+        "label": "send_order_confirmation_email",
+        "kind": 2,
+        "importPath": "app.workers.tasks",
+        "description": "app.workers.tasks",
+        "peekOfCode": "def send_order_confirmation_email(self, user_email: str, user_name: str, order_id: str, total: float):\n    \"\"\"Send order confirmation email to customer.\"\"\"\n    try:\n        msg = MIMEMultipart(\"alternative\")\n        msg[\"Subject\"] = f\"Order Confirmed! #{order_id[:8].upper()}\"\n        msg[\"From\"] = settings.EMAILS_FROM\n        msg[\"To\"] = user_email\n        html = f\"\"\"\n        <html><body>\n        <h2>Hey {user_name}, your order is confirmed! 🎉</h2>",
+        "detail": "app.workers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "send_order_status_update_email",
+        "kind": 2,
+        "importPath": "app.workers.tasks",
+        "description": "app.workers.tasks",
+        "peekOfCode": "def send_order_status_update_email(self, user_email: str, user_name: str, order_id: str, new_status: str):\n    \"\"\"Notify customer of order status change.\"\"\"\n    status_messages = {\n        \"confirmed\": \"Your order has been confirmed by the restaurant! 👨‍🍳\",\n        \"preparing\": \"The kitchen is preparing your order! 🍳\",\n        \"ready_for_pickup\": \"Your order is ready for pickup! 📦\",\n        \"out_for_delivery\": \"Your order is on the way! 🚗\",\n        \"delivered\": \"Your order has been delivered! Enjoy! 🎉\",\n        \"cancelled\": \"Your order has been cancelled. 😔\",\n    }",
+        "detail": "app.workers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "send_new_order_notification_to_restaurant",
+        "kind": 2,
+        "importPath": "app.workers.tasks",
+        "description": "app.workers.tasks",
+        "peekOfCode": "def send_new_order_notification_to_restaurant(self, restaurant_email: str, order_id: str, total: float, item_count: int):\n    \"\"\"Notify restaurant of a new incoming order.\"\"\"\n    try:\n        msg = MIMEMultipart(\"alternative\")\n        msg[\"Subject\"] = f\"🔔 New Order! #{order_id[:8].upper()}\"\n        msg[\"From\"] = settings.EMAILS_FROM\n        msg[\"To\"] = restaurant_email\n        html = f\"\"\"\n        <html><body>\n        <h2>New Order Received! 🔔</h2>",
+        "detail": "app.workers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "update_restaurant_analytics",
+        "kind": 2,
+        "importPath": "app.workers.tasks",
+        "description": "app.workers.tasks",
+        "peekOfCode": "def update_restaurant_analytics(restaurant_id: str):\n    \"\"\"Recalculate and cache restaurant analytics (called after each order).\"\"\"\n    # TODO: Implement caching with Redis\n    logger.info(f\"Updating analytics for restaurant {restaurant_id}\")\n# ─────────────────────────── Internal Helpers ────────────────────────────\ndef _send_email(to_email: str, msg: MIMEMultipart):\n    with smtplib.SMTP(settings.SMTP_HOST, settings.SMTP_PORT) as server:\n        server.starttls()\n        server.login(settings.SMTP_USER, settings.SMTP_PASSWORD)\n        server.sendmail(settings.EMAILS_FROM, to_email, msg.as_string())",
+        "detail": "app.workers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.workers.tasks",
+        "description": "app.workers.tasks",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# ─────────────────────────── Email Tasks ────────────────────────────\n@celery_app.task(bind=True, max_retries=3, default_retry_delay=60)\ndef send_order_confirmation_email(self, user_email: str, user_name: str, order_id: str, total: float):\n    \"\"\"Send order confirmation email to customer.\"\"\"\n    try:\n        msg = MIMEMultipart(\"alternative\")\n        msg[\"Subject\"] = f\"Order Confirmed! #{order_id[:8].upper()}\"\n        msg[\"From\"] = settings.EMAILS_FROM\n        msg[\"To\"] = user_email",
+        "detail": "app.workers.tasks",
+        "documentation": {}
+    },
+    {
+        "label": "root",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def root():\n    return {\n        \"name\": settings.APP_NAME,\n        \"version\": settings.APP_VERSION,\n        \"status\": \"running\",\n        \"docs\": \"/docs\",\n    }\n@app.get(\"/health\", tags=[\"Health\"])\ndef health_check():\n    return {\"status\": \"healthy\", \"version\": settings.APP_VERSION}",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "health_check",
+        "kind": 2,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "def health_check():\n    return {\"status\": \"healthy\", \"version\": settings.APP_VERSION}",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "logger = logging.getLogger(__name__)\n# ─────────────────────────── App Instance ────────────────────────────\napp = FastAPI(\n    title=settings.APP_NAME,\n    version=settings.APP_VERSION,\n    description=\"\"\"\n## Local Kai API\nA production-ready food ordering backend similar to Uber Eats / DoorDash.\n### Features\n- **JWT Authentication** — register, login, refresh tokens",
+        "detail": "app.main",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app.main",
+        "description": "app.main",
+        "peekOfCode": "app = FastAPI(\n    title=settings.APP_NAME,\n    version=settings.APP_VERSION,\n    description=\"\"\"\n## Local Kai API\nA production-ready food ordering backend similar to Uber Eats / DoorDash.\n### Features\n- **JWT Authentication** — register, login, refresh tokens\n- **Restaurants** — create, browse, filter by city/cuisine\n- **Menu Management** — categories and items with availability control",
+        "detail": "app.main",
+        "documentation": {}
+    }
+]
